@@ -2,7 +2,7 @@ Protection Levels
 =================
 
 ===================== ====== === ========== ==============
-_                     Button PIN Passphrase Remark
+Message               Button PIN Passphrase Remark
 ===================== ====== === ========== ==============
 Initialize
 ApplySettings         x      x

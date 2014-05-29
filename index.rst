@@ -6,8 +6,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   client_support
+   feature_list
    protection_levels
+   signtx_workflow
+   hardware
 
 Indices and tables
 ==================
