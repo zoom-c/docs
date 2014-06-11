@@ -5,7 +5,9 @@ Contents
 --------
 
 ==================== ===========================================================
-**trezor-devel**     Developer Documentation for TREZOR
+**trezor-devel**     TREZOR Developer Documentation
+**trezor-faq**       TREZOR Frequently Asked Questions
+**trezor-user**      TREZOR User Documentation
 ==================== ===========================================================
 
 References
