@@ -1,0 +1,31 @@
+SatoshiLabs Improvement Proposals
+=================================
+SatoshiLabs projects need a way how to document their technical decisions and features.
+For some of them Bitcoin Improvement Proposal (BIP) is not a right place because
+their range and implications are outside of the scope of Bitcoin and cryptocurrencies.
+
+SLIP repository is an extension to Bitcoin Improvement Proposal (BIP) process
+and contains the documents that are unsuitable for submission to BIP repository.
+
+Each SLIP should provide a concise technical specification of the feature and a rationale for the feature.
+
+============================ =============================================== ============= =========
+Number                       Title                                           Type          Status
+============================ =============================================== ============= =========
+:doc:`SLIP-0000 <slip-0000>` SLIP Template                                   Informational Accepted
+============================ =============================================== ============= =========
+
+.. toctree::
+   :hidden:
+
+   slip-0000
+
+License
+-------
+
+The contents of this documentation are licensed under Creative Commons `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_ license.
+
+Contributing
+------------
+
+The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pull requests are welcome!

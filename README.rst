@@ -5,6 +5,7 @@ Contents
 --------
 
 ==================== ===========================================================
+**slips**            SatoshiLabs Improvement Proposals
 **trezor-devel**     TREZOR Developer Documentation
 **trezor-faq**       TREZOR Frequently Asked Questions
 **trezor-user**      TREZOR User Documentation
