@@ -1,5 +1,5 @@
-SLIP-0000 : SLIP Template
-=========================
+SLIP-0011 : Symmetric encryption of key-value pairs using deterministic hierarchy
+=================================================================================
 
 ::
 
