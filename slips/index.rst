@@ -9,16 +9,20 @@ and contains the documents that are unsuitable for submission to BIP repository.
 
 Each SLIP should provide a concise technical specification of the feature and a rationale for the feature.
 
-============================ =============================================== ============= =========
-Number                       Title                                           Type          Status
-============================ =============================================== ============= =========
-:doc:`SLIP-0000 <slip-0000>` SLIP Template                                   Informational Accepted
-============================ =============================================== ============= =========
+============================ ======================================================================= ============= =========
+Number                       Title                                                                   Type          Status
+============================ ======================================================================= ============= =========
+:doc:`SLIP-0000 <slip-0000>` SLIP Template                                                           Informational Accepted
+:doc:`SLIP-0011 <slip-0011>` Symmetric encryption of key-value pairs using deterministic hierarchy   Standard      Draft
+:doc:`SLIP-0012 <slip-0012>` Public key encryption using deterministic hierarchy                     Standard      Draft
+============================ ======================================================================= ============= =========
 
 .. toctree::
    :hidden:
 
    slip-0000
+   slip-0011
+   slip-0012
 
 License
 -------
