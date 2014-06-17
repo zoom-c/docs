@@ -9,6 +9,7 @@ Contents
 **trezor-devel**     TREZOR Developer Documentation
 **trezor-faq**       TREZOR Frequently Asked Questions
 **trezor-user**      TREZOR User Documentation
+**tools**            Various Tools Used in the Documentation Process
 ==================== ===========================================================
 
 References
