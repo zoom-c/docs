@@ -1,4 +1,4 @@
-TREZOR User Documentation
+TREZOR User Manual
 =========================
 
 Contents
@@ -7,7 +7,13 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   mytrezor
+   whatsinthebox
+   settingup
+   receivingpayments
+   transfertotrezor
+   makingpayments
+   updatingfirmware
+   recovery
 
 License
 -------
