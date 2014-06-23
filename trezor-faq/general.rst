@@ -10,6 +10,7 @@ How does TREZOR work?
 ---------------------
 
 The mechanism of making transactions with TREZOR is simple as this:
+
 1. Connect the device into the USB and run your wallet software.
 2. The device is automatically recognized by your computer as a new USB device.
 3. Once the wallet software asks for the master public key, it will show your addresses and their balances.
@@ -21,7 +22,7 @@ The mechanism of making transactions with TREZOR is simple as this:
 How do I connect TREZOR to my computer?
 ---------------------------------------
 
-TREZOR acts like an USB HID device which connects to your computer via a micro USB cable (like a keyboard or a mouse). You won't need to install any drivers; everything you'll need is a Bitcoin wallet (like Multibit, Electrum etc.) capable to communicate with the device.
+TREZOR acts like an USB HID device which connects to your computer via a micro USB cable (like a keyboard or a mouse). You won't need to install any drivers; everything you'll need is a Bitcoin wallet capable to communicate with the device.
 
 What happens when I use TREZOR for the first time?
 --------------------------------------------------
@@ -31,7 +32,7 @@ When running TREZOR for the first time, a master private key is generated and wr
 Do I have to install any drivers to my computer before using TREZOR?
 --------------------------------------------------------------------
 
-If using TREZOR with a desktop client, you won’t need to install any drivers. TREZOR is a Plug & Play device so everything you'll need is to have desktop Bitcoin wallet (like Multibit or Electrum) capable to talk with the device
+If using TREZOR with a desktop client, you won't need to install any drivers. TREZOR is a Plug & Play device so everything you'll need is to have desktop Bitcoin wallet capable to talk with the device.
 
 In case you want to use TREZOR with a web wallet, you will be asked to install a simple web plugin for your browser (Firefox, Chrome or IE). The installation is a fast and easy process.
 

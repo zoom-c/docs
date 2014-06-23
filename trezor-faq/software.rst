@@ -1,4 +1,4 @@
-Software design & Security
+Software Design & Security
 ==========================
 
 What is a recovery seed, a PIN and encryption passphrase and the difference between them?
@@ -6,7 +6,7 @@ What is a recovery seed, a PIN and encryption passphrase and the difference betw
 
 A recovery seed is a mnemonic code made of 12, 18 or 24 words depending on your choice. This seed is generated the first time you run TREZOR and will help you recovering it's contents (private keys, bitcoin balance and transaction history) into a new device if you lose your TREZOR.
 
-A PIN is a number that you set when you first run TREZOR. It protects TREZOR against being used by unauthorized persons. We have invented a secure way of entering the PIN so it can’t be keylogged and misused.
+A PIN is a number that you set when you first run TREZOR. It protects TREZOR against being used by unauthorized persons. We have invented a secure way of entering the PIN so it can't be keylogged and misused.
 
 Encryption passphrase can be set on top of the PIN. This protects the device in case of seizure. It's using military-grade encryption of the seed on TREZOR storage, so even torturing the device in a laboratory won't leak your private keys.
 
@@ -30,7 +30,7 @@ When you use your TREZOR for the first time a recovery seed (a mnemonic code) is
 If somebody steals my Trezor, they'll just empty out my wallet before I have the chance to restore anyway. Right?
 -----------------------------------------------------------------------------------------------------------------
 
-Not at all. All operations on TREZOR require the user to enter a PIN. The attacker would have to guess your PIN which is very difficult because with each badly entered PIN the time for entering it anew increases exponentially. For example, the delay between 19th and 20th PIN entering is 35 hours. Unplugging and plugging the device won’t help. The thief would have to sit his life off entering the PINs. Meanwhile you have enough time to move your funds into a new device or wallet from the paper backup.
+Not at all. All operations on TREZOR require the user to enter a PIN. The attacker would have to guess your PIN which is very difficult because with each badly entered PIN the time for entering it anew increases exponentially. For example, the delay between 19th and 20th PIN entering is 35 hours. Unplugging and plugging the device won't help. The thief would have to sit his life off entering the PINs. Meanwhile you have enough time to move your funds into a new device or wallet from the paper backup.
 
 Also, TREZOR can be protected by encryption passphrase which can be set on top of the PIN. This protects the device in case of seizure. It's using military-grade encryption of the seed on TREZOR storage, so even torturing the device in a laboratory won't leak your private keys.
 
