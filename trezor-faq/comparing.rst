@@ -1,11 +1,6 @@
 Comparing TREZOR to ...
 =======================
 
-What is the difference between the two editions?
-------------------------------------------------
-
-Both editions have identical electronics and functionality. Thus the main difference is in the case material. The Classic TREZOR case is made of a durable reinforced plastic. The Metallic TREZOR is made from a polished aluminum.
-
 How is TREZOR different from a USB flash drive?
 -----------------------------------------------
 

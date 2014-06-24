@@ -6,11 +6,6 @@ I want to participate on implementing TREZOR with my wallet or service.
 
 We will be happy talking to you, please contact us at info@bitcointrezor.com.
 
-Do you have a shield for the Raspberry-Pi?
-------------------------------------------
-
-The shields are ready. We are shipping these to developers only for now. If you are one of them, please contact us at info@bitcointrezor.com.
-
 Is it possible to flash the device?
 -----------------------------------
 

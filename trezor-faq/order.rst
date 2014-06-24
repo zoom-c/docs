@@ -1,15 +1,10 @@
 Order & Delivery
 ================
 
-How does Pre-Order of TREZOR work?
-----------------------------------
-
-Pre-Order allows you to participate on the development of the device and be among the first TREZOR owners when produced. Select one of the TREZOR editions, specify the amount of devices and fill-in your delivery address.
-
 How can I purchase different TREZOR editions?
 ---------------------------------------------
 
-Select the wished amount of one TREZOR edition, click „Add to cart“ and then „Back to eshop“ and specify the amount of the other edition.
+Select the wished amount of one TREZOR edition, click "Add to cart" and then "Back to eshop" and specify the amount of the other edition.
 
 For those who have ordered two editions before we launched the shopping cart, we'll definitely try to combine them together and treat as one order while shipping.
 

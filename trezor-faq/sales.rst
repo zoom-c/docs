@@ -14,4 +14,4 @@ Yes, please contact Alena at info@bitcointrezor.com.
 I run a bitcoin site or service; can I earn bitcoins with TREZOR?
 -----------------------------------------------------------------
 
-Yes, we would like our supporters and TREZOR owners to be able to participate on our success. That’s why we are preparing an affiliate program. Please `subscribe to our newsletter <http://www.bitcointrezor.com/>`_ and we’ll inform you when it’s ready.
+Yes, we would like our supporters and TREZOR owners to be able to participate on our success. That's why we are preparing an affiliate program. Please `subscribe to our newsletter <http://www.bitcointrezor.com/>`_ and we'll inform you when it's ready.
