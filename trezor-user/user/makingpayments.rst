@@ -7,7 +7,7 @@ In order to make payments, got the the account page in myTREZOR and press send. 
 
 Here you can type in a destination address for your transaction and the number of bitcoins you want to send.
 
-If the address you want to send to is on someone's cell phone you might not want to type in the full address.   Chances are though, that you'll also have a QR code handy.  You can scan a QR-code with myTREZOR simply by pressing the scan QR code button in the address field and holding a picture of the QR-code up to your computer's web cam.
+If the address you want to send to is on someone's cell phone, you might not want to type in the full address.   Chances are though, that they'll also be able to show you the QR code for their account.  You can scan a QR code with myTREZOR simply by pressing the scan QR code button in the address field and holding a picture of the QR code up to your computer's web cam.
 
 .. image:: images/scanqrcode.jpg
 

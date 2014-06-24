@@ -1,7 +1,7 @@
 Recovery
 ========
 
-If you loose your TREZOR or if your TREZOR somehow gets destroyed you may have to recover your accounts.  So long as your recovery card is in tact, your bitcoins are safe and sound.
+If you loose your TREZOR or if your TREZOR somehow gets destroyed you may have to recover your accounts.  So long as your recovery card is in tact your bitcoins are safe and sound.
 
 What do you need to start your TREZOR recovery:
 
@@ -17,10 +17,12 @@ Press the TREZOR recovery button.
 
 .. image:: images/recoverystart.jpg
 
-Enter a new name for your TREZOR device and look at your recovery card to see how many words your recovery seed has.  Select the correct number of words and press continue.
+Enter the name of your TREZOR device.  Look at your recovery card to see how many words your recovery seed has.  Select the correct number of words and press continue.
 
 .. image:: images/recovery-enter-seed-word.jpg
 
+Now its time to look down at your TREZOR.  It will tell you what you need to enter into your computer.
 
+After you have finished, you should see all your accounts as they were before.  You can continue bitcoining away!
 
 .. _mytrezor.com: https://mytrezor.com/

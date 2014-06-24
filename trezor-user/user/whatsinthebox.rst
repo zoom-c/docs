@@ -14,4 +14,4 @@ So today you got your TREZOR.  Congradulations!  So you have a small box with th
 
   .. image:: images/box-with-seal.jpg
 
-Go ahead and do so now.  You should see the glowing TREZOR lock appear on the screen.  Now move on to :doc:`Setting up your trezor device <settingup>`.
+Go ahead and plug your TREZOR in now.  You should see the glowing TREZOR lock appear on the screen.  Now move on to :doc:`Setting up your trezor device <settingup>`.
