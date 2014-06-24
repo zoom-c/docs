@@ -1,19 +1,21 @@
 TREZOR User Manual
 =========================
 
+Reading this manual
+------------------
+
+The TREZOR documentation is broken into three parts: The User Manual, The Technical Manual, and The Developer manual.
+
+Everything you need to get started using your TREZOR can be found in the user manual.  If you want to find out how your TREZOR work and why it's so secure you should read the technical manual.  If you are interested in developing new software that works with the TREZOR or writting your own custom firmware, see the developer manual.
+
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   whatsinthebox
-   settingup
-   receivingpayments
-   transfertotrezor
-   makingpayments
-   updatingfirmware
-   recovery
+   user/user
+   technical/technical
 
 License
 -------
