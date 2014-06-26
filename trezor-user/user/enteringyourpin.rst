@@ -1,18 +1,25 @@
 Entering your pin
 ========
 
-You can use your TREZOR safely with any computer, even one you don't trust.  But you don't want to go entering your PIN into untrusted computers and ATMs.  The TREZOR doesn't make you enter your PIN directly into your computer and its therefore much more secure than the credit card you're used to.  But its also a little bit more complex.
+You can use your TREZOR safely with any computer, even one you don't trust.  But you don't want to go entering your PIN into untrusted computers and ATMs.  We invented a new method of entering your PIN, one that is both convenient and highly secure:
 
 .. image:: images/myTREZORnumberpad.png
 
-Don't worry though, its not that hard and once you get the hang of it you'll be using truely military grade security.
+Don't worry!  It is not as hard as it looks.  Each one of those question marks is a buttion, just like the number pad on an ATM.
 
-If you look down at your TREZOR you'll see a grid filled with numbers not to different from the grid of buttons with questions marks on your screen.
+Now look down at your TREZOR.
 
 .. image:: images/Trezor-pin.jpg
 
-If you hold your TREZOR up to your screen it is easy to imagine that the questionmarks would be filled in with the numbers on your TREZOR's screen.  The numbers on your TREZOR tell you what each of those buttons mean.  Try clicking on the buttons bellow to see what I mean.  See how they have the same numbers as on the TREZOR?
+If you hold your TREZOR up to your computer's screen, you can see that for every question mark, the TREZOR shows you a number.  The numbers on your TREZOR tell you what each of those buttons mean.  Taking the picture above as an example, the first question mark on the computer's screen is the '4' button.  The seccond question mark on the first row is the '8' button and so on.
 
-TODO-interactive-pin-widget
+So if you were to copy the numbers from your TREZOR's screen onto the question-mark pad in myTREZOR it would look like:
+
+.. image::  images/myTREZORnumberpad-filled-in.png
+
+
+Now entering your pin should be easy!
+
+When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  You'll then need to enter this same PIN each time you plug your TREZOR into a computer.
 
 Now that you've entered your pin you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.
