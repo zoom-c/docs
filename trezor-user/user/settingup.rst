@@ -1,4 +1,4 @@
-Setting up your trezor device
+Setting up your TREZOR device
 ========
 
 The TREZOR works with almost any computer that has a USB port an internet connection.  To install the TREZOR drivers go to mytrezor.com_ you should see a page with a Download link.  Download the TREZOR software and follow the instructions on the screen.
