@@ -2,7 +2,7 @@ TREZOR Technical Manual
 ------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    how/howtrezorworks
    advanced/advancedoptions
