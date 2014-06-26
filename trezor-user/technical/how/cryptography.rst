@@ -1,3 +1,6 @@
+Cryptography
+============
+
 Protecting your private seed
 ------------------------
 

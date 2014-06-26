@@ -1,4 +1,4 @@
-Advanced features and settings
+Advanced TREZOR features and settings
 ------------------
 
 .. toctree::
