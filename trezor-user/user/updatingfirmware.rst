@@ -21,6 +21,8 @@ Once you have pluged in your TREZOR you'll see a dialog on the myTREZOR.com webs
 
 Press "Yes, update"
 
+.. image:: images/trezor-bootloader.jpg
+
 Now press the right button on your TREZOR to confirm the update.  Wait a few minutes while the update runs.  Once it's done you can unplug and replug your TREZOR to finish the update.
 
 .. note:: If the update somehow fails or you accidentally unplug your TREZOR during the update there no need to worry.  Simply run the update over again by plugging your TREZOR in with both buttons pressed down.  You will need to forget the old device and recover your device.  To do that, press next to go on to the next topic.

@@ -23,6 +23,8 @@ Enter the name of your TREZOR device.  If you settup your device without changin
 
 You'll need to enter a new PIN for your new TREZOR device.  After that you can look down at your TREZOR and follow the instructions on the screen.
 
+.. image:: images/trezor-recovery.jpg
+
 After you have finished, you should see all your accounts as they were before.  You can continue bitcoining away!
 
 .. |myTrezor| raw:: html

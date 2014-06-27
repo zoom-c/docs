@@ -9,7 +9,7 @@ Don't worry!  It is not as hard as it looks.  Each one of those question marks i
 
 Now look down at your TREZOR.
 
-.. image:: images/Trezor-pin.jpg
+.. image:: images/trezor-pin.jpg
 
 If you hold your TREZOR up to your computer's screen, you can see that for every question mark, the TREZOR shows you a random number.  The numbers on your TREZOR tell you what each of those buttons mean.  Taking the picture above as an example, the first question mark on the computer's screen is the '4' button.  The second question mark on the first row is the '8' button and so on.
 

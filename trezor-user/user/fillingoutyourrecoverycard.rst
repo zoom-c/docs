@@ -7,6 +7,8 @@ Your seed is a list of secret set of words that you will use to recover your mon
 
 Now you should get out the recovery card that came with your TREZOR and fill out the blanks with the words you see on your screen.
 
+.. image:: images/trezor-reset.jpg
+
 To go to the next word press the right button on the device.
 
 Once you have written down the secret words in your seed you will find yourself at the beginning of the list again.  As you proceed through the list of seed words for the second time, check them against your recovery card to ensure that you have filled out your recovery card correctly.
