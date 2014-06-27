@@ -9,5 +9,6 @@ TREZOR User Manual
    receivingpayments
    transfertotrezor
    makingpayments
+   forgetting
    updatingfirmware
    recovery
