@@ -1,7 +1,7 @@
 Making payments
 ========
 
-In order to make payments, got the the account page in myTREZOR and press send.  You should see a payment page like this:
+In order to make payments, go to the account page in myTREZOR and press send.  You should see a payment page like this:
 
 .. image:: images/send.jpg
 
