@@ -17,6 +17,7 @@ Once you have done so, you're ready to start using your TREZOR device!
 
 .. note:: It is safe to unplug your TREZOR device at any time except during updates.
 
- - Continue to :doc:`receivingpayments`
 
- - Continue to :doc:`makingpayments`
+- Continue to :doc:`receivingpayments`
+
+- Continue to :doc:`makingpayments`
