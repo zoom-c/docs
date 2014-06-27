@@ -1,9 +1,9 @@
 Setting up your TREZOR device
 ========
 
-The TREZOR works with almost any computer that has a USB port an internet connection.  To install the TREZOR drivers go to mytrezor.com_ you should see a page with a Download link.  Download the TREZOR software and follow the instructions on the screen.
+The TREZOR works with almost any computer that has a USB port and an internet connection.  To install the TREZOR drivers go to |myTrezor|.  You should see a page with a Download link.  Download the TREZOR software and follow the instructions on the screen.
 
-Once you've got the TREZOR driver installed go to mytrezor.com_ again.  This time you should see a web page welcoming you and asking for a device label:
+Once you've got the TREZOR driver installed go to |myTrezor| again.  This time you should see a web page welcoming you and asking for a device label:
 
 .. image:: images/welcometosetup.png
 
@@ -15,8 +15,10 @@ Enter a new name for your TREZOR device and press Continue.  You should see a ma
    enteringyourpin
    fillingoutyourrecoverycard
 
-.. note:: You don't need to use the mytrezor.com_ webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TEZOR including:
+.. note:: You don't need to use the |myTrezor| webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TEZOR including:
 
  - TODO
 
-.. _mytrezor.com: https://mytrezor.com/
+.. |myTrezor| raw:: html
+
+   <a href="http://mytrezor.com" target="_blank">myTREZOR.com</a>

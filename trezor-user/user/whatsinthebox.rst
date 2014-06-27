@@ -1,7 +1,7 @@
 What's in the box?
 ========
 
-So today you got your TREZOR.  Congratulations!  So you have a small box with the shiny TREZOR seal on it. Inside you should find:
+So today you got your TREZOR.  Congratulations!  In the small box with the shiny TREZOR seal on it you should find:
 
  - Your new TREZOR
  - USB cable for your TREZOR
