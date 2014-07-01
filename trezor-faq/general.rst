@@ -34,7 +34,7 @@ Do I have to install any drivers to my computer before using TREZOR?
 
 If using TREZOR with a desktop client, you won't need to install any drivers. TREZOR is a Plug & Play device so everything you'll need is to have desktop Bitcoin wallet capable to talk with the device.
 
-In case you want to use TREZOR with a web wallet, you will be asked to install a simple web plugin for your browser (Firefox, Chrome or IE). The installation is a fast and easy process.
+In case you want to use TREZOR with a web wallet, you will be asked to install a simple bridge that allows for your browser (e.g. Firefox, Chrome or IE) to communicate with TREZOR. The installation is a fast and easy process.
 
 How does TREZOR keep my bitcoins safe if I connect it to a compromised computer?
 --------------------------------------------------------------------------------
