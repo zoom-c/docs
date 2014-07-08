@@ -1,2 +1,0 @@
-Dissabling PIN protection
--------------------------
