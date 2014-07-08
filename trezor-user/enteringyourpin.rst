@@ -3,7 +3,7 @@ Entering your PIN
 
 You can use your TREZOR safely with any computer, even one you don't trust.  But you don't want to go entering your PIN into untrusted computers and ATMs.  We invented a new method of entering your PIN, one that is both convenient and highly secure:
 
-.. image:: images/myTREZORnumberpad.png
+.. image:: images/pin-numberpad.png
 
 Don't worry!  It is not as hard as it looks.  Each one of those question marks is a button, just like the number pad on an ATM.
 
@@ -15,7 +15,7 @@ If you hold your TREZOR up to your computer's screen, you can see that for every
 
 So if you were to copy the numbers from your TREZOR's screen onto the question-mark pad in myTREZOR it would look like:
 
-.. image::  images/myTREZORnumberpad-filled-in.png
+.. image::  images/pin-numberpad-filled-in.png
 
 
 Now entering your PIN should be easy!
