@@ -1,5 +1,5 @@
 Receiving payments
-========
+==================
 
 Once you've set up your TREZOR your myTREZOR wallet will now appear.
 
@@ -14,7 +14,7 @@ You don't have to keep these addresses secret.  Indeed, you should share them as
 You'll also see a More please button.  Why would you want more addresses?  Say your first address is used by your employer to send you your salary.  You can tell when your employer has payed you because you receive bitcoins on that address.  Now, you want to sell your lawnmower to Bob.  How do you know when Bob has payed you and which payment came from Bob?  You can create a new bitcoin address specially for Bob.  When bitcoins come in to Bob's address you know that its Bob paying you and not your employer.
 
 Confirming that a payment has been received
------------------------------------
+-------------------------------------------
 
 When someone makes a payment to you, you will see a green(incoming) transaction appear in the transactions pane.
 

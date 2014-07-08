@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SUBDIRS="slips trezor-devel trezor-faq trezor-user"
+SUBDIRS="slips trezor-devel trezor-faq trezor-tech trezor-user"
 
 rm -rf _build/
 mkdir _build

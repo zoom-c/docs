@@ -1,4 +1,4 @@
-TREZOR Developer Manual
+TREZOR Technical Manual
 =======================
 
 Reading this manual
@@ -14,12 +14,10 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   feature_list
-   protection_levels
-   signtx_workflow
-   hardware
+   how/howtrezorworks
+   advanced/advancedoptions
 
 License
 -------

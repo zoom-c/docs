@@ -1,5 +1,5 @@
 What's in the box?
-========
+==================
 
 So today you got your TREZOR.  Congratulations!  In the small box with the shiny TREZOR seal on it you should find:
 

@@ -1,5 +1,5 @@
 Making payments
-========
+===============
 
 In order to make payments, go to the account page in myTREZOR and press send.  You should see a payment page like this:
 
@@ -12,7 +12,7 @@ If the address you want to send to is on someone's cell phone, you might not wan
 .. image:: images/scanqrcode.jpg
 
 Outgoing transactions
---------------------
+---------------------
 
 Outgoing transactions are marked as red on the Transactions pane.
 

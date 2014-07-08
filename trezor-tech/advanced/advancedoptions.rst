@@ -1,5 +1,5 @@
 Advanced TREZOR features and settings
-------------------
+-------------------------------------
 
 .. toctree::
    :maxdepth: 2

@@ -1,5 +1,5 @@
 Entering your pin
-========
+=================
 
 You can use your TREZOR safely with any computer, even one you don't trust.  But you don't want to go entering your PIN into untrusted computers and ATMs.  We invented a new method of entering your PIN, one that is both convenient and highly secure:
 

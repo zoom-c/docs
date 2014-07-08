@@ -6,10 +6,11 @@ Contents
 
 ==================== ===========================================================
 **slips**            SatoshiLabs Improvement Proposals
+**tools**            Various Tools Used in the Documentation Process
 **trezor-devel**     TREZOR Developer Documentation
 **trezor-faq**       TREZOR Frequently Asked Questions
+**trezor-tech**      TREZOR Technical Documentation
 **trezor-user**      TREZOR User Documentation
-**tools**            Various Tools Used in the Documentation Process
 ==================== ===========================================================
 
 References

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# TREZOR Developer Documentation build configuration file, created by
+# TREZOR Developer Manual build configuration file, created by
 # sphinx-quickstart on Sun May 25 16:57:43 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 module_name = 'trezor-devel'
-project = u'TREZOR Developer Documentation'
+project = u'TREZOR Developer Manual'
 author = u'SatoshiLabs'
 copyright = u'2014, ' + author
 
@@ -180,7 +180,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TrezorDevelDoc'
+htmlhelp_basename = 'TrezorDevelManual'
 
 
 # -- Options for LaTeX output ---------------------------------------------

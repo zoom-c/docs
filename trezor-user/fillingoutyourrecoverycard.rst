@@ -1,5 +1,5 @@
 Filling out your recovery card
-========
+==============================
 
 If you have set your new pin successfully you will now see a message on your TREZOR's screen prompting you to write down the seed.
 

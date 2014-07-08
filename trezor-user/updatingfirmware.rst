@@ -1,5 +1,5 @@
 Updating your TREZOR's firmware
-========
+===============================
 
 Occasionally you may plug in your TREZOR to see a banner telling you that you need an update.
 
