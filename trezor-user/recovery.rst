@@ -11,15 +11,15 @@ What do you need to start your TREZOR recovery:
 
 To start your recovery plug your new TREZOR into your computer and go to |myTrezor|.  You should see a page like this with a TREZOR recovery button:
 
-.. image:: images/recovery-button.jpg
+.. image:: images/recovery-button.png
 
 Press the TREZOR recovery button.
 
-.. image:: images/recoverystart.jpg
+.. image:: images/recovery-start.png
 
 Enter the name of your TREZOR device.  If you settup your device without changing any advanced options you can simply press continue.  Otherwise configure the advanced options as they were before you lost your old TREZOR:  Look at your recovery card to see how many words your recovery seed has.  Check the "Additional passphrase encryption" box if your old TREZOR had a passphrase. And press continue.
 
-.. image:: images/recovery-enter-seed-word.jpg
+.. image:: images/recovery-enter-seed-word.png
 
 You'll need to enter a new PIN for your new TREZOR device.  After that you can look down at your TREZOR and follow the instructions on the screen.
 
