@@ -20,3 +20,14 @@ Built using Sphinx_ with sphinx_rtd_theme_
 
 .. _Sphinx: https://sphinx-doc.org/
 .. _sphinx_rtd_theme: https://github.com/snide/sphinx_rtd_theme/
+
+Building the documentation
+------------------------
+
+If you have Docker installed you can run:
+
+    make shell
+
+    make html
+
+Then open up _build/index.html in your favorite web browser.
