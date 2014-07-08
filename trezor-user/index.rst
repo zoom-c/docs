@@ -4,9 +4,9 @@ TREZOR User Manual
 Reading this manual
 ------------------
 
-The TREZOR documentation is broken into three parts: The User Manual, The Technical Manual, and The Developer manual.
+The TREZOR documentation is broken into two parts: The User Manual and The Developer manual.
 
-Everything you need to get started using your TREZOR can be found in the user manual.  If you want to find out how your TREZOR work and why it's so secure you should read the technical manual.  If you are interested in developing new software that works with the TREZOR or writting your own custom firmware, see the developer manual.
+Everything you need to get started using your TREZOR can be found in the user manual. If you are interested in developing new software that works with the TREZOR or writting your own custom firmware, see the developer manual.
 
 Contents
 --------
@@ -15,7 +15,6 @@ Contents
    :maxdepth: 3
 
    user/user
-   technical/technical
 
 License
 -------
