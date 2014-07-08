@@ -7,3 +7,6 @@ shell: .docs-build-environment
 
 html:
 	./build.sh
+
+clean:
+	rm -rf _build/
