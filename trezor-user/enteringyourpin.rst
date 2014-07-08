@@ -1,4 +1,4 @@
-Entering your pin
+Entering your PIN
 =================
 
 You can use your TREZOR safely with any computer, even one you don't trust.  But you don't want to go entering your PIN into untrusted computers and ATMs.  We invented a new method of entering your PIN, one that is both convenient and highly secure:
@@ -18,8 +18,8 @@ So if you were to copy the numbers from your TREZOR's screen onto the question-m
 .. image::  images/myTREZORnumberpad-filled-in.png
 
 
-Now entering your pin should be easy!
+Now entering your PIN should be easy!
 
 When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  You'll then need to enter this same PIN each time you plug your TREZOR into a computer.
 
-Now that you've entered your pin you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.
+Now that you've entered your PIN you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.

@@ -16,4 +16,4 @@ Outgoing transactions
 
 Outgoing transactions are marked as red on the Transactions pane.
 
-.. note:: Each time you send bitcoins you have to pay a small transaction fee.  This fee will be automatically calculated for you by the myTREZOR wallet and charged against your account.  This fee goes to funding the running of the bitcoin network and is not charged by Satoshi labs.
+.. note:: Each time you send bitcoins you have to pay a small transaction fee.  This fee will be automatically calculated for you by the myTREZOR wallet and charged against your account.  This fee goes to funding the running of the bitcoin network and is not charged by Satoshi Labs.

@@ -7,7 +7,7 @@ Once you've got the TREZOR driver installed go to |myTrezor| again.  This time y
 
 .. image:: images/welcometosetup.png
 
-Enter a new name for your TREZOR device and press Continue.  You should see a matrix of question marks.  Now go on to :doc:`Entering your pin <enteringyourpin>`.
+Enter a new name for your TREZOR device and press Continue.  You should see a matrix of question marks.  Now go on to :doc:`Entering your PIN <enteringyourpin>`.
 
 .. toctree::
    :maxdepth: 2
@@ -15,9 +15,10 @@ Enter a new name for your TREZOR device and press Continue.  You should see a ma
    enteringyourpin
    fillingoutyourrecoverycard
 
-.. note:: You don't need to use the |myTrezor| webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TEZOR including:
+.. You don't need to use the |myTrezor| webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TEZOR including:
 
- - TODO
+ - Electrum
+ - Multibit
 
 .. |myTrezor| raw:: html
 

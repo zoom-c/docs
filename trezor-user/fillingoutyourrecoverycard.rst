@@ -1,7 +1,7 @@
 Filling out your recovery card
 ==============================
 
-If you have set your new pin successfully you will now see a message on your TREZOR's screen prompting you to write down the seed.
+If you have set your new PIN successfully you will now see a message on your TREZOR's screen prompting you to write down the seed.
 
 Your seed is a list of secret set of words that you will use to recover your money in case you ever lose your TREZOR.
 
