@@ -33,3 +33,14 @@ If you have Docker installed you can run:
     make html
 
 Then open up _build/index.html in your favorite web browser.
+
+Alternatively, if you have pip installed, you can run:
+
+    pip install sphinx
+
+    pip install sphinx_rtd_theme
+    
+    make html
+
+Without any need for Docker.
+
