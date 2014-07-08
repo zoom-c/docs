@@ -17,7 +17,8 @@ Contents
    :maxdepth: 3
 
    how/howtrezorworks
-   advanced/advancedoptions
+   advancedsettings/advanced
+   advancedfeatures/advanced
 
 License
 -------
