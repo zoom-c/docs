@@ -7,7 +7,7 @@ What do you need to start your TREZOR recovery:
 
  - A new TREZOR
  - Your filled out TREZOR recovery card
- - A computer with the myTREZOR wallet software installed
+ - A computer with the TREZOR bridge installed
 
 To start your recovery plug your new TREZOR into your computer and go to |myTrezor|.  You should see a page like this with a TREZOR recovery button:
 
