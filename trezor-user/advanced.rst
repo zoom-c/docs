@@ -8,4 +8,6 @@ Topics include:
  - Passphrase encryption
  - Multiple accounts
 
+Go on to the `Technical manual`_ now.
+
 .. _`Technical manual`: ../trezor-tech/index.html
