@@ -8,6 +8,5 @@ There are several advanced settings that can be configured while setting up your
 
    dissablingyourpin
    passphraseencryption
-   importrandomness
 
 
