@@ -16,6 +16,7 @@ Number                       Title                                              
 :doc:`SLIP-0011 <slip-0011>` Symmetric encryption of key-value pairs using deterministic hierarchy   Standard      Draft
 :doc:`SLIP-0012 <slip-0012>` Public key encryption using deterministic hierarchy                     Standard      Draft
 :doc:`SLIP-0013 <slip-0013>` Authentication using deterministic hierarchy                            Standard      Draft
+:doc:`SLIP-0044 <slip-0044>` Registered coin types for BIP-0044                                      Standard      Draft
 ============================ ======================================================================= ============= =========
 
 .. toctree::
@@ -25,6 +26,7 @@ Number                       Title                                              
    slip-0011
    slip-0012
    slip-0013
+   slip-0044
 
 License
 -------
