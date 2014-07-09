@@ -1,5 +1,5 @@
 Advanced features
-========================
+=================
 
 Using multiple accounts
 -----------------------
