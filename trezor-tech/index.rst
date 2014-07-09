@@ -16,9 +16,8 @@ Contents
 .. toctree::
    :maxdepth: 3
 
-   how/howtrezorworks
-   advancedsettings/advanced
-   advancedfeatures/advanced
+   basicsecurtyphilosophy
+   cryptography
 
 License
 -------

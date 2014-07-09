@@ -3,7 +3,7 @@ Understanding transaction details
 
 myTREZOR.com displays several transaction details that it is good to become familiar with.
 
-.. image:: ../images/transaction-details.png
+.. image:: images/transaction-details.png
 
 **Timestamp**
     A timestamp is the time when a given transaction completed being processed.  When a transaction is first made, its timestamp will display as "unconfirmed".  Once the transaction has completed successfully it will display as a date and time.  **Note**:  For large transactions, you should always wait for them to be confirmed before considering them to be complete!

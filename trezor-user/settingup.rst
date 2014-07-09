@@ -9,6 +9,8 @@ Once you've got the TREZOR driver installed go to |myTrezor| again.  This time y
 
 Enter a new name for your TREZOR device and press Continue.  You should see a matrix of question marks.  Now go on to :doc:`Entering your PIN <enteringyourpin>`.
 
+.. note:: There are also several :doc:`advanced settings <advancedsettings/advanced>` that you can configure.
+
 .. toctree::
    :maxdepth: 2
 

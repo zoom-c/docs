@@ -19,12 +19,14 @@ Contents
    whatsinthebox
    settingup
    receivingpayments
+   transactiondetails
    transfertotrezor
    makingpayments
    forgetting
    updatingfirmware
    recovery
-   advanced
+   advancedsettings/advanced
+   advancedfeatures/advanced
 
 License
 -------
