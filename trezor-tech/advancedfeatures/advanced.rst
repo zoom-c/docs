@@ -6,6 +6,6 @@ Advanced TREZOR features
 
    multipleaccounts
    transactiondetails
-   grouptrezor
+
 
 
