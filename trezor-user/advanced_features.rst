@@ -1,4 +1,4 @@
-Advanced TREZOR features
+Advanced features
 ========================
 
 Using multiple accounts
