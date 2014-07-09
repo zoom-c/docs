@@ -1,14 +1,16 @@
 Advanced TREZOR settings
 ========================
 
-There are several advanced settings that can be configured while setting up your TREZOR device.  For the most part, these settings can be accessed by pressing the "Advanced features" button right after you have plugged your TREZOR in for the first time or after whipping the device.
+There are several advanced settings that can be configured while setting up your TREZOR device.  For the most part, these settings can be accessed by pressing the "Advanced settings" button right after you have plugged your TREZOR in for the first time or after whipping the device.
+
+.. image:: images/welcometosetup-advanced.png
 
 Disabling PIN protection
 -------------------------
 
-myTREZOR.com will ask you for your PIN the first time you try to make a transaction after plugging in your TREZOR.  PIN protection reduces the risk that a person with physical access to your TREZOR device will be able to steal your bitcoins.  The TREZOR PIN works in such a way that even the computer you use with your TREZOR never finds out your PIN.  It is possible to disable PIN protection by unchecking the "enable pin protection" checkbox.  Even if you have configured a passphrase for your TREZOR DO NOT DISABLE PIN PROTECTION!
+myTREZOR.com will ask you for your PIN the first time you try to make a transaction after plugging in your TREZOR.  PIN protection reduces the risk that a person with physical access to your TREZOR device will be able to steal your bitcoins.  The TREZOR PIN works in such a way that even the computer you use with your TREZOR never finds out your PIN.  It is possible to disable PIN protection by unchecking the "Enable PIN protection" checkbox.
 
-.. image:: ../trezor-user/images/pin-numberpad.png
+.. warning:: Even if you have configured a passphrase for your TREZOR DO NOT DISABLE PIN PROTECTION!
 
 Using passphrase encrypted seeds
 --------------------------------
@@ -17,7 +19,7 @@ In addition to a PIN is possible to add a passphrase to your TREZOR.  This has t
 
 One limitation of the passphrase approach is that you have to enter your passphrase into the computer that you use with your TREZOR.  For this reason, you should not be tempted to disable your PIN even if you use a passphrase as well!
 
-The flip side to this extreme level of security is that if you forget your passphrase your bitcoins are lost.  Really lost! 
+The flip side to this extreme level of security is that if you forget your passphrase your bitcoins are lost.  Really lost!
 
 Multi-passphrase encryption (hidden volumes)
 --------------------------------------------
@@ -26,12 +28,12 @@ Security researchers have a habit of coming up with spicy names for simple attac
 
 .. image:: images/5-dollar-wrench.png
 
-(Image credit Randall Munroe xkcd.com and used under the terms of the Creative Commons Attribution license)
+(Image credit: `Randall Munroe xkcd.com <https://xkcd.com/538/>`_. Used under the terms of the Creative Commons Attribution license)
 
 If you have your passphrase memorized and you haven't written it down anywhere, attackers with physical access to your TREZOR may still be able to extract the passphrase with a $5 wrench.   In order to mitigate this risk it is possible to set up your TREZOR multiple times with multiple passphrases.  The goal is to have one "spoof" setup that only holds a few bitcoins or bitcents and one "real" setup that holds your fortune.
 
 In order to do this all you need to do is setup your TREZOR with a passphrase, then unplug and replug your TREZOR and enter a different passphrase.  Here's an example:
 
-I setup my TREZOR with the passphrase "lonelypumpkins" and load a large number of bitcoins onto my device.  I unplug/replug my TREZOR and enter the passphrase "fooybarness".  I then send a few bitcents to the "fooybarness" account.  When the thugs come and steal my TREZOR, I can now safely tell them that my passphrase is "fooybarness".  They will be able to steel a few bitcents from me, but they won't be able to get at my fortune or even determine that a second passphrase exists.
+I setup my TREZOR with the passphrase "lonelypumpkins" and load a large number of bitcoins onto my device.  I unplug/replug my TREZOR and enter the passphrase "funnyspirit".  I then send a few bitcents to the "funnyspirit" account.  When the thugs come and steal my TREZOR, I can now safely tell them that my passphrase is "funnyspirit".  They will be able to steel a few bitcents from me, but they won't be able to get at my fortune or even determine that a second passphrase exists.
 
-.. note:: Do not use either the passphrase "lonelypumpkins" or "fooybarness" to secure your TREZOR device!
+.. note:: Do not use either the passphrase "lonelypumpkins" or "funnyspirit" to secure your TREZOR device!

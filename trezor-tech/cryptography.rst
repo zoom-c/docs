@@ -44,7 +44,7 @@ Hierarchical Deterministic wallets (`BIP32 <https://github.com/bitcoin/bips/blob
 
 TREZOR uses a Hierarchical Deterministic wallet(HD Wallet for short.  Using an HD Wallet allows your TREZOR to manage multiple bitcoin accounts with multiple addresses while still being recoverable with a simple 12-24 word seed.
 
-`BIP32 <https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki>`_ - the cryptography behind how TREZOR generates the keys for your bitcoin accounts from the recovery seed. 
+`BIP32 <https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki>`_ - the cryptography behind how TREZOR generates the keys for your bitcoin accounts from the recovery seed.
 
     **Abstract**
     
