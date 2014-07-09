@@ -9,7 +9,7 @@ myTREZOR.com displays several transaction details that it is good to become fami
     A timestamp is the time when a given transaction completed being processed.  When a transaction is first made, its timestamp will display as "unconfirmed".  Once the transaction has completed successfully it will display as a date and time.  **Note**:  For large transactions, you should always wait for them to be confirmed before considering them to be complete!
 
 **Address**
-    For incoming transactions this column displays the address of the person or entity that sent you the coins.  For outgoing transactions this column displays the address to which the coins were sent.
+    This column always displays the address to which the coins were sent.  If you want to know who is sending you bitcoins, you need to "bill" them with their own unique adress to send to.  You can do this, by going to the receive tab and pressing "More Please".
 
 **Amount**
     This column displays the amount of bitcoins transfered.  It is negative in the case of outgoing transactions.
