@@ -26,6 +26,3 @@ Contributing
 ------------
 
 The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pull requests are welcome!
-
-
-

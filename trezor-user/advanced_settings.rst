@@ -1,3 +1,15 @@
+Advanced TREZOR settings
+========================
+
+There are several advanced settings that can be configured while setting up your TREZOR device.  For the most part, these settings can be accessed by pressing the "Advanced features" button right after you have plugged your TREZOR in for the first time or after whipping the device.
+
+Disabling PIN protection
+-------------------------
+
+myTREZOR.com will ask you for your PIN the first time you try to make a transaction after plugging in your TREZOR.  PIN protection reduces the risk that a person with physical access to your TREZOR device will be able to steal your bitcoins.  The TREZOR PIN works in such a way that even the computer you use with your TREZOR never finds out your PIN.  It is possible to disable PIN protection by unchecking the "enable pin protection" checkbox.  Even if you have configured a passphrase for your TREZOR DO NOT DISABLE PIN PROTECTION!
+
+.. image:: ../trezor-user/images/pin-numberpad.png
+
 Using passphrase encrypted seeds
 --------------------------------
 
@@ -12,7 +24,7 @@ Multi-passphrase encryption (hidden volumes)
 
 Security researchers have a habit of coming up with spicy names for simple attacks.  One such attack is referred to as the $5 wrench attack.
 
-.. image:: ../images/5-dollar-wrench.png
+.. image:: images/5-dollar-wrench.png
 
 (Image credit Randall Munroe xkcd.com and used under the terms of the Creative Commons Attribution license)
 
@@ -22,4 +34,4 @@ In order to do this all you need to do is setup your TREZOR with a passphrase, t
 
 I setup my TREZOR with the passphrase "lonelypumpkins" and load a large number of bitcoins onto my device.  I unplug/replug my TREZOR and enter the passphrase "fooybarness".  I then send a few bitcents to the "fooybarness" account.  When the thugs come and steal my TREZOR, I can now safely tell them that my passphrase is "fooybarness".  They will be able to steel a few bitcents from me, but they won't be able to get at my fortune or even determine that a second passphrase exists.
 
-.. note:: Do not use either the passphrase "lonelypumpkins" or "fooybarness" to secure your TREZOR device! 
+.. note:: Do not use either the passphrase "lonelypumpkins" or "fooybarness" to secure your TREZOR device!

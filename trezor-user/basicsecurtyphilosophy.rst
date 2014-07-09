@@ -6,11 +6,9 @@ The zero trust principle
 
 TREZOR's security model is based on the principle of zero trust.  The zero trust principle says that any part of a secure system could at some point be compromised.
 
-TODO-insert-diagram-with:
+.. image:: images/zero-trust-diagram.png
 
- myTREZOR.com<->Internet<->computer<->TREZOR
-
-Your TREZOR device will continue to protect your bitcoins even in the case that the myTREZOR web wallet and your computer are both infected by viruses.  This is important.  The whole point of TREZOR is being more secure than a traditional web wallet or desktop bitcoin application.
+Your TREZOR device will continue to protect your bitcoins even in the case that the myTREZOR web wallet is hacked and your computer is infected by a virus.  This is important.  The whole point of TREZOR is being more secure than a traditional web wallet or desktop bitcoin application.
 
 Why does the TREZOR have a screen and buttons?
 ----------------------------------------------
@@ -31,9 +29,9 @@ A single purpose computer
 
 The TREZOR is a single purpose computer.  TREZOR doesn't have a weather app.  There are no free downloads for TREZOR that could compromise the device.
 
-Limiting the attack surface: no battery, WIFI, Bluetooth, fingerprint reader, NFC
-----------------------------------------------------------------------------------
+Limiting the attack surface: no battery, WiFi, Bluetooth, fingerprint reader, NFC
+---------------------------------------------------------------------------------
 
-Any time a computer has to deal with untrusted information there is a risk that the computer will be infected with malware.  The TREZOR is no exception.  In order to limit the attack surface against the TREZOR, TREZOR communicates solely through a simple serial USB protocol.  There is no WIFI or Bluetooth, no camera for scanning QR-codes.  There's not even a fingerprint reader for identifying the user.  This is all because we want the TREZOR to be as secure as possible.  The fewer devices the TREZOR talks to, and the simpler its communication protocol is, the less likely it is to get infected.
+Any time a computer has to deal with untrusted information there is a risk that the computer will be infected with malware.  The TREZOR is no exception.  In order to limit the attack surface against the TREZOR, TREZOR communicates solely through a simple USB protocol.  There is no WiFi or Bluetooth, no camera for scanning QR-codes.  There's not even a fingerprint reader for identifying the user.  This is all because we want the TREZOR to be as secure as possible.  The fewer devices the TREZOR talks to, and the simpler its communication protocol is, the less likely it is to get infected.
 
 The TREZOR also has no battery.  When its unplugged its off and your bitcoins are safe from cyber attack.

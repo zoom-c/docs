@@ -1,9 +1,10 @@
 Cryptography
 ============
+
 TREZOR adheres to current advanced cryptography standards.  Many of these standards are published as `BIPs <https://github.com/bitcoin/bips>`_ or Bitcoin Improvement protocols.  This page documents which standards TREZOR uses.
 
 Mnemonic recovery seed (`BIP39 <https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>`_)
-------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 `BIP39 <https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>`_ - used to manage your recovery seed and recovery words.
 
@@ -22,13 +23,13 @@ Mnemonic recovery seed (`BIP39 <https://github.com/bitcoin/bips/blob/master/bip-
 Your TREZOR uses a mnemonic that is between 12 and 24 words.  These mnemonics correspond to recovery seeds of the following size:
 
 =============== ==== ==== ====
-Word count       12  16    24
+Word count      12   16   24
 =============== ==== ==== ====
-Seed size       128  152  256
+Seed size       128  192  256
 --------------- ---- ---- ----
-Checksum bits    4    6    8
+Checksum bits   4    6    8
 --------------- ---- ---- ----
-Total bit width  132 198  264
+Total bit width 132  198  264
 =============== ==== ==== ====
 
 In order to convert a binary seed to a mnemonic, the full seed, along with its checksum, is broken into 11bit segments.  Each of these segments is represented by one of the 2048 words from the TREZOR's mnemonic seed dictionary.
@@ -36,10 +37,10 @@ In order to convert a binary seed to a mnemonic, the full seed, along with its c
 Passphrase encryption
 ---------------------
 
-TREZORs passphrase encryption is implemented as part of BIP 39.  It allows for advanced features such as using :doc:`multiple hidden volumes <../advancedsettings/passphraseencryption>` with your TREZOR.
+TREZORs passphrase encryption is implemented as part of BIP 39.  It allows for advanced features such as using `multiple hidden volumes <../trezor-user/advanced_settings.html>`_ with your TREZOR.
 
 Hierarchical Deterministic wallets (`BIP32 <https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki>`_ and `BIP44 <https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki>`_)
------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TREZOR uses a Hierarchical Deterministic wallet(HD Wallet for short.  Using an HD Wallet allows your TREZOR to manage multiple bitcoin accounts with multiple addresses while still being recoverable with a simple 12-24 word seed.
 

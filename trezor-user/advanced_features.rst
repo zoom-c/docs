@@ -1,3 +1,6 @@
+Advanced TREZOR features
+========================
+
 Using multiple accounts
 -----------------------
 
@@ -11,6 +14,6 @@ If you frequently send bitcoins between accounts then it may become clear that y
 
 Creating a new account is easy.  Just press the add account button at the bottom of your accounts list:
 
-.. image:: ../images/add-account-button.png
+.. image:: images/add-account-button.png
 
 .. note:: The add account button will be disabled until you have sent some bitcoins to your last account.
