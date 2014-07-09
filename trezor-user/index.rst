@@ -4,7 +4,7 @@ TREZOR User Manual
 Reading this manual
 -------------------
 
-The TREZOR documentation is broken into three parts: The User Manual, The Technical Manual and The Developer Manual.
+The TREZOR documentation is broken into three parts: `The User Manual <../trezor-user/index.html>`_, `The Technical Manual <../trezor-tech/index.html>`_ and `The Developer Manual <../trezor-devel/index.html>`_.
 
 Everything you need to get started using your TREZOR can be found in The User Manual.
 If you want to know how things work under the hood and to learn the best security practices, see The Technical Manual.
@@ -24,6 +24,7 @@ Contents
    forgetting
    updatingfirmware
    recovery
+   advanced
 
 License
 -------
@@ -34,3 +35,4 @@ Contributing
 ------------
 
 The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pull requests are welcome!
+
