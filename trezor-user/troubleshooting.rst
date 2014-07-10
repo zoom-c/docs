@@ -1,11 +1,11 @@
 Troubleshooting
 ===============
 
-During normal opperation
----------------------------
+During normal operation
+-----------------------
 
 If myTREZOR.com stops responding:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Unplug your TREZOR
 2. Refresh myTREZOR.com
@@ -14,18 +14,19 @@ If myTREZOR.com stops responding:
 You can unplug your TREZOR at any time except during the update procedure.  There is no risk of data loss.
 
 If myTREZOR.com shows broken or confusing account information
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Run :doc:`forget device<forgetting>`
+1. Run :doc:`Forget device<forgetting>`
 2. Unplug your TREZOR
 3. Plug your TREZOR back in
 
-
 After an update
-------------------
+---------------
 
 If you see:
-^^^^^^^^^^^^^
+^^^^^^^^^^^
+
+::
 
     WARNING!
 
@@ -37,13 +38,13 @@ TODO image of unofficial firmware warning
 2. Done. Your TREZOR should now work again.
 
 If you see:
-^^^^^^^^^^^^^^
+^^^^^^^^^^^
+
+::
 
     Firmware seems broken.
 
     Please try to reflash the device.
-
-TODO image
 
 1. :doc:`Run the update again<updatingfirmware>`.
 2. Done.  Your TREZOR should now work again.

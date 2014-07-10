@@ -17,9 +17,10 @@ So if you were to copy the numbers from your TREZOR's screen onto the question-m
 
 .. image::  images/pin-numberpad-filled-in.png
 
-
 Now entering your PIN should be easy!
 
-When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  You'll then need to enter this same PIN each time you plug your TREZOR into a computer.
+.. important:: When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  Notice that the numbers shown on TREZOR change between the entries.
+
+You'll then need to enter this same PIN each time you plug your TREZOR into a computer.
 
 Now that you've entered your PIN you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.
