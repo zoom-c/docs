@@ -16,6 +16,7 @@ Contents
    forgetting
    updatingfirmware
    recovery
+   troubleshooting
    advanced_settings
    advanced_features
    basicsecurtyphilosophy
