@@ -1,10 +1,11 @@
 Troubleshooting
-==========
+===============
 
 During normal opperation
------------------------
+---------------------------
 
 If myTREZOR.com stops responding:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Unplug your TREZOR
 2. Refresh myTREZOR.com
@@ -12,10 +13,19 @@ If myTREZOR.com stops responding:
 
 You can unplug your TREZOR at any time except during the update procedure.  There is no risk of data loss.
 
+If myTREZOR.com shows broken or confusing account information
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Run :doc:`forget device<forgetting>`
+2. Unplug your TREZOR
+3. Plug your TREZOR back in
+
+
 After an update
---------------
+------------------
 
 If you see:
+^^^^^^^^^^^^^
 
     WARNING!
 
@@ -23,9 +33,11 @@ If you see:
 
 TODO image of unofficial firmware warning
 
-:doc:`Run the update again<updatingfirmware>`.
+1. :doc:`Run the update again<updatingfirmware>`.
+2. Done. Your TREZOR should now work again.
 
 If you see:
+^^^^^^^^^^^^^^
 
     Firmware seems broken.
 
@@ -33,6 +45,7 @@ If you see:
 
 TODO image
 
-:doc:`Run the update again<updatingfirmware>`.
+1. :doc:`Run the update again<updatingfirmware>`.
+2. Done.  Your TREZOR should now work again.
 
-If you see these errors any other time, and you have not uploaded unofficial firmware to your TREZOR device.  Contact TREZOR support.
+If you see firmware related errors any other time, and you have not uploaded unofficial firmware to your TREZOR device, contact TREZOR support.
