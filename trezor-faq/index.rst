@@ -7,15 +7,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   general
-   compatibility
-   hardware
-   software
-   comparing
-   pricing
-   order
-   sales
-   developer
+   faq
+
 
 License
 -------
