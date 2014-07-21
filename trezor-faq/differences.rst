@@ -25,7 +25,7 @@ When you store your Bitcoins in a traditional web wallet you put your Bitcoins a
 
 If you keep your Bitcoins in a TREZOR, none of these things can happen.
 
-a desktop bitcoin client?
+a desktop Bitcoin client?
 -------------------------
 
 If you keep your Bitcoins in your computer, when your computer is hacked or stolen your Bitcoins can be stolen.
@@ -53,8 +53,8 @@ a paper backup of my keys?
 
 A paper backup is a quite safe method to protect bitcoins, but you still need to load private keys from paper using a trusted computer to send your coins to somebody else.
 
-Overview Table
---------------
+Comparison Table
+----------------
 
 .. image:: images/compared_to.png
    :target: _images/compared_to.png
