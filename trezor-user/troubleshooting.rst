@@ -32,8 +32,6 @@ If you see:
 
     Unofficial firmware
 
-TODO image of unofficial firmware warning
-
 1. :doc:`Run the update again<updatingfirmware>`.
 2. Done. Your TREZOR should now work again.
 
