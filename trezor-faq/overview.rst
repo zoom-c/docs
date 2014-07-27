@@ -29,6 +29,8 @@ There is full support in Windows, OS X and Linux.  Support for using your TREZOR
 What kind of hardware specs does the TREZOR have?
 -------------------------------------------------
 
+.. image:: images/trezor_pcb.png
+
 **CPU**
   TREZOR is using a 120 MHz embedded ARM processor (Cortex M3 to be precise) with a custom developed system.
 
