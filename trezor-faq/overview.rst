@@ -44,7 +44,7 @@ What kind of hardware specs does the TREZOR have?
   The TREZOR is CE and RoHS certified, so it meets all quality, reliability and environmental standards.  Its fine to take your TREZOR with you on the airplane.  Like all modern electronics, the X-Rays won't hurt it.
 
 **Operating temperature**
-  -20°C to +60°C (-4F - +140F)
+  -20°C to +60°C (-4°F - +140°F)
 
 What if I lose my TREZOR?
 -------------------------
