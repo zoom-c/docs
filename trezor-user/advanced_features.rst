@@ -18,6 +18,17 @@ Creating a new account is easy.  Just press the add account button at the bottom
 
 .. note:: The add account button will be disabled until you have sent some bitcoins to your last account.
 
+Wiping your TREZOR device
+-------------------------
+
+.. image:: images/trezor-wipe.jpg
+
+1. Plug in your TREZOR
+2. Go to myTREZOR.com
+3. Select your TREZOR and press **Wipe device**
+
+ - You should now see the "Welcome to TREZOR Setup!"
+
 Changing your TREZOR recovery seed
 ----------------------------------
 
@@ -34,13 +45,7 @@ In order to change your recovery seed, you will need:
 
 Now do the following steps:
 
-A. Wipe your TREZOR device:
-
- 1. Plug in your TREZOR
- 2. Go to myTREZOR.com
- 3. Select your TREZOR and press **Wipe device**
-
-   - You should now see the "Welcome to TREZOR Setup!"
+A. Wipe your TREZOR device (see above)
 
 B. Setup your TREZOR with its new recovery seed and write down your new TREZOR's address
 

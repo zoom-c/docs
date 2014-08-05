@@ -11,9 +11,17 @@ If the address you want to send to is on someone's cell phone, you might not wan
 
 .. image:: images/send-scan-qrcode.png
 
+During signing the transaction each of the output addresses will be shown on display together with their associated amounts.
+
+.. image:: images/trezor-tx1.jpg
+
+After all output addresses are confirmed, you'll be shown one final confirmation containing the sum of all outgoing coins and a transaction fee.
+
+.. image:: images/trezor-tx2.jpg
+
+.. note:: Each time you send bitcoins you have to pay a small transaction fee.  This fee will be automatically calculated for you by the myTREZOR wallet and charged against your account.  This fee goes to funding the running of the bitcoin network and is not charged by Satoshi Labs.
+
 Outgoing transactions
 ---------------------
 
 You can watch the progress of your outgoing transactions by switching over to the **Transactions** window.  Outgoing transactions are marked as red.
-
-.. note:: Each time you send bitcoins you have to pay a small transaction fee.  This fee will be automatically calculated for you by the myTREZOR wallet and charged against your account.  This fee goes to funding the running of the bitcoin network and is not charged by Satoshi Labs.
