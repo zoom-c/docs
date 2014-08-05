@@ -10,9 +10,9 @@ Contents
    whatsinthebox
    settingup
    receivingpayments
-   transactiondetails
    transfertotrezor
    makingpayments
+   transactiondetails
    forgetting
    updatingfirmware
    recovery
