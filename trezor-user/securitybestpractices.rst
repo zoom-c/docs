@@ -15,16 +15,15 @@ Keep your recovery seed safe from
 
 - Theft
 
-If you do not use a passphrase, your recovery seed is all that is needed to access your bitcoins.  The physical security of your recovery seed is much more important than the physical security of your TREZOR.  If your TREZOR is stolen, the likely hood is that the theives will be unable to crack your PIN and that your bitcoins are safe.  However, if your recovery seed is stolen your bitcoins can be accessed quite easily.
+ If you do not use a passphrase, your recovery seed is all that is needed to access your bitcoins.  The physical security of your recovery seed is much more important than the physical security of your TREZOR.  If your TREZOR is stolen, the likely hood is that the theives will be unable to crack your PIN and that your bitcoins are safe.  However, if your recovery seed is stolen your bitcoins can be accessed quite easily.
 
-Only ever keep your recovery seed on paper.  Never store it on your computer.
+ Only ever keep your recovery seed on paper.  Never store it on your computer.
 
-- Flood
-- Fire
+- Flood / Fire
 
-If your TREZOR is lost or stops working, your recovery seed is the only way to get your bitcoins back.  It is therefore important that your recovery card not be destroyed as well.
+ If your TREZOR is lost or stops working, your recovery seed is the only way to get your bitcoins back.  It is therefore important that your recovery card not be destroyed as well.
 
-You may even wish to keep multiple copies of your recovery seed, stored in different locations, however safety from theft should always be considered as paramount.
+ You may even wish to keep multiple copies of your recovery seed, stored in different locations, however safety from theft should always be considered as paramount.
 
 Where NOT to keep your recovery seed
 ----------------------------------
