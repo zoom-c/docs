@@ -37,8 +37,6 @@ Alternatively, if you have pip installed, you can run:
 
     pip install sphinx
 
-    pip install sphinx_rtd_theme
-
     make html
 
 Without any need for Docker.
