@@ -12,7 +12,10 @@ So today you got your TREZOR.  Congratulations!  In the small box with the shiny
 
 .. note:: Your TREZOR doesn't have any batteries in it.  So you won't see anything on the screen until you plug it in.
 
-.. important:: When you get your TREZOR make sure that the silver security seal is unbroken to ensure you are working with an authentic TREZOR device.
+Check the security seal
+--------------------
+
+Make sure that the silver security seal is unbroken to ensure you are working with an authentic TREZOR device.
 
   .. image:: images/box-with-seal.jpg
 
