@@ -39,4 +39,4 @@ Where to keep your recovery card
 -------------------------------
 
  - In a locked drawer, away from water and fire
- - Someplace where people are likely to look for it after you die, but not before then
+ - Someplace where your familly members are likely to find it after you pass away but not before then
