@@ -17,9 +17,10 @@ Contents
    updatingfirmware
    recovery
    troubleshooting
+   securitybestpractices
+   securityphilosophy
    advanced_settings
    advanced_features
-   basicsecurtyphilosophy
 
 License
 -------
