@@ -19,6 +19,11 @@ So if you were to copy the numbers from your TREZOR's screen onto the question-m
 
 Now entering your PIN should be easy!
 
+Choose a good PIN
+-------------------
+
+If you are not sure about what PIN to use, you may want to overview our :doc:`security best practices <securitybestpractices>`.
+
 .. important:: When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  Notice that the numbers shown on TREZOR change between the entries.
 
 You'll then need to enter this same PIN each time you plug your TREZOR into a computer.
