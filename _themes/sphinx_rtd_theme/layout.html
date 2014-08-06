@@ -82,14 +82,14 @@
     {# SIDE NAV, TOGGLES ON MOBILE #}
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-nav-search">
-        {% block sidebartitle %}
-          <a href="{{ pathto(master_doc) }}" class="fa fa-home"> {{ project }}</a>
-        {% endblock %}
-        <br>
         <a href="../index.html"><li><i class="fa fa-home fa-2x"></i></li></a>
         <a href="../trezor-faq/index.html"><li><i class="fa fa-question-circle fa-2x"></i></li></a>
         <a href="../trezor-user/index.html"><li><i class="fa fa-user fa-2x"></i></li></a>
         <a href="../trezor-tech/index.html"><li><i class="fa fa-cogs fa-2x"></i></li></a>
+        <br/>
+        {% block sidebartitle %}
+          <a href="{{ pathto(master_doc) }}"> {{ project }}</a>
+        {% endblock %}
         {% include "searchbox.html" %}
       </div>
 
