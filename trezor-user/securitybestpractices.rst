@@ -1,5 +1,5 @@
 Securty best practices
-============
+======================
 
 Choose a good PIN
 -----------------
@@ -11,7 +11,7 @@ An `analysis in 2012 <http://www.datagenetics.com/blog/september32012/>`_ showed
 If you have trouble remembering your PIN, write it on your recovery card.
 
 Keep your recovery seed safe from
--------------------------
+----------------------------------
 
 - Theft
 
@@ -26,7 +26,7 @@ Keep your recovery seed safe from
  You may even wish to keep multiple copies of your recovery seed, stored in different locations, however safety from theft should always be considered as paramount.
 
 Where NOT to keep your recovery seed
-----------------------------------
+------------------------------------
 
  - Dropbox
  - Email
@@ -35,7 +35,7 @@ Where NOT to keep your recovery seed
  - Secure encrypted folder
 
 Where to keep your recovery card
--------------------------------
+--------------------------------
 
  - In a locked drawer, away from water and fire
  - Someplace where your familly members are likely to find it after you pass away but not before then

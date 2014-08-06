@@ -28,7 +28,7 @@ You'll need to enter a new PIN for your new TREZOR device.  After that you can l
 After you have finished, you should see all your accounts as they were before.  You can continue bitcoining away!
 
 What happens if I forget my PIN?
-------------------------------
+--------------------------------
 
 If you forget your PIN, you can reset it using the recovery process described above.
 
