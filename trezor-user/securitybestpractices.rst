@@ -1,5 +1,5 @@
-Securty best practices
-======================
+Security best practices
+=======================
 
 Choose a good PIN
 -----------------
@@ -15,7 +15,7 @@ Keep your recovery seed safe from
 
 - Theft
 
- If you do not use a passphrase, your recovery seed is all that is needed to access your bitcoins.  The physical security of your recovery seed is much more important than the physical security of your TREZOR.  If your TREZOR is stolen, the likely hood is that the theives will be unable to crack your PIN and that your bitcoins are safe.  However, if your recovery seed is stolen your bitcoins can be accessed quite easily.
+ If you do not use a passphrase, your recovery seed is all that is needed to access your bitcoins.  The physical security of your recovery seed is much more important than the physical security of your TREZOR.  If your TREZOR is stolen, the likely hood is that the thieves will be unable to crack your PIN and that your bitcoins are safe.  However, if your recovery seed is stolen your bitcoins can be accessed quite easily.
 
  Only ever keep your recovery seed on paper.  Never store it on your computer.
 
@@ -38,4 +38,4 @@ Where to keep your recovery card
 --------------------------------
 
  - In a locked drawer, away from water and fire
- - Someplace where your familly members are likely to find it after you pass away but not before then
+ - Someplace where your family members are likely to find it after you pass away but not before then

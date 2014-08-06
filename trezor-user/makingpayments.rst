@@ -15,7 +15,7 @@ If the address you want to send to is on someone's cell phone, you might not wan
 
 You can send bitcoins to multiple addresses with one transaction by pressing the '+' button in the right hand corner of the Send page.
 
-TODO screenshot with arrow
+.. image:: images/send-multisend.png
 
 This is both convenient and saves you money in transaction fees.
 

@@ -15,7 +15,7 @@ When you store your Bitcoins in a traditional web wallet you put your Bitcoins a
 
  - FBI or other enforcement agency confiscates coins
 
- - Web wallet provider points to TOS violation and takes coins
+ - Web wallet provider points to ToS violation and takes coins
 
  - Owners of web wallet company run away with coins
 

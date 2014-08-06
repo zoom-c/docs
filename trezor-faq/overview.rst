@@ -11,7 +11,7 @@ TREZOR is a single purpose device which allows you to make secure Bitcoin transa
 How does TREZOR work?
 ---------------------
 
-The Bitcoin protocol works by sending signed notes of payment across the internet.  These messages(which are referred to as Transactions) are signed using a special algorithm.  In order to sign a Bitcoin transaction you need to have a special key or password.  TREZOR holds that key.  Since TREZOR's job is to help you securely sign Transaction messages, you can think of you TREZOR as a modern day stamp.
+The Bitcoin protocol works by sending signed notes of payment across the Internet.  These messages(which are referred to as Transactions) are signed using a special algorithm.  In order to sign a Bitcoin transaction you need to have a special key or password.  TREZOR holds that key.  Since TREZOR's job is to help you securely sign Transaction messages, you can think of you TREZOR as a modern day stamp.
 
 .. image:: images/stamp.jpg
 
