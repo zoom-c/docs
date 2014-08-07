@@ -15,7 +15,7 @@ myTREZOR.com will ask you for your PIN the first time you try to make a transact
 Using passphrase encrypted seeds
 --------------------------------
 
-In addition to a PIN is possible to add a passphrase to your TREZOR.  This has the advantage of making your TREZOR impervious to physical attack.  Even if your TREZOR were to be stolen and the chip examined under an electron microscope to discover your recovery seed, your bitcoins would still be safe!  A passphrase can be any word or any set of letters that you might use as a password.  Your passphrase should be memorable though.  You typically would not write it down anywhere, to eliminate any possibility of it being discovered.
+In addition to a PIN it is possible to add a passphrase to your TREZOR.  This has the advantage of making your TREZOR impervious to physical attack.  Even if your TREZOR were to be stolen and the chip examined under an electron microscope to discover your recovery seed, your bitcoins would still be safe!  A passphrase can be any word or any set of letters that you might use as a password.  Your passphrase should be memorable though.  You typically would not write it down anywhere, to eliminate any possibility of it being discovered.
 
 One limitation of the passphrase approach is that you have to enter your passphrase into the computer that you use with your TREZOR.  For this reason, you should not be tempted to disable your PIN even if you use a passphrase as well!
 
