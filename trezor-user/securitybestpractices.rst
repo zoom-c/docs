@@ -8,6 +8,9 @@ TREZOR's PIN based security system is a powerful tool to keep your bitcoin's saf
 
 An `analysis in 2012 <http://www.datagenetics.com/blog/september32012/>`_ showed that 11% of PINs used were 1234.  Do not use the PIN 1234 to secure your TREZOR.  Do not use any pin which contains a series of repeated numbers or a counting sequence.
 
+.. hint::
+ The numbers displayed on the TREZOR's screen when it requests a new PIN are random.  You can use them as the basis for your PIN, if you don't have any better ideas.
+
 If you have trouble remembering your PIN, write it on your recovery card.
 
 Keep your recovery seed safe from
