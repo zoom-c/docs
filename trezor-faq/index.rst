@@ -9,6 +9,8 @@ Contents
 
    overview
    differences
+   threats
+   threats-ugly
 
 
 License
