@@ -1,11 +1,15 @@
-Communication API
+TREZOR API
 =================
 
-TREZOR communicates using a simple request-response model.
-Messages are exchanged always in a purely synchronous fashion over `USB HID <https://en.wikipedia.org/wiki/USB_HID>`_.
-These messages are serialized into binary format using `Protocol Buffers <https://en.wikipedia.org/wiki/Protocol_Buffers>`_.
+If you want to write an application that interfaces with TREZOR your best bet is to use one of our prebuilt API toolkits:
 
-Message definitions are stored in the `trezor-common <https://github.com/trezor/trezor-common/tree/master/protob>`_ repository.
-File ``messages.proto`` describes messages and file ``types.proto`` described data structures used inside of the messages.
+- `Python API <https://github.com/trezor/python-trezor>`_
+- `Android API <https://github.com/trezor/trezor-android>`_
+- `Javascript API <https://github.com/trezor/trezor.js>`_
 
+Don't see your favorite language above?  Creating a new API toolkit is easy.  Please see:
 
+.. toctree::
+   :maxdepth: 2
+
+  api-protobuf
