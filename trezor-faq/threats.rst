@@ -76,7 +76,7 @@ If we wave our hands a bit, we can claim that SHA512 and SHA256 are the same dif
 
 (24! ÷ 256 * 8096) / 175557117000000000 / 60 / 60 /24 / 365 = 3.5 years
 
-for the **ENTIRE BITCOIN NETWORK** to crack the seed.  On a normal botnet, it would take millenia.
+for the **ENTIRE BITCOIN NETWORK** to crack the seed.  If you have that kind of hashing power, you'd make better money mining for `slush pool <https://mining.bitcoin.cz/>`_ then trying to steal bitcoins.  On a normal botnet, it would take millenia.
 
 What doesn't TREZOR protect against?
 =========================
