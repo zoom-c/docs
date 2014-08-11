@@ -12,4 +12,11 @@ Don't see your favorite language above?  Creating a new API toolkit is easy.  Pl
 .. toctree::
    :maxdepth: 2
 
-  api-protobuf
+   api-protobuf
+
+Check out the following section to see how exactly are the messages exchanged during various workflows.
+
+.. toctree::
+   :maxdepth: 2
+
+   api-workflows

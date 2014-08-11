@@ -12,9 +12,9 @@ Contents
    hardware
    api
    cryptography
+   resources
    feature_list
    protection_levels
-   signtx_workflow
 
 License
 -------
