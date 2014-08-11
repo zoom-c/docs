@@ -30,6 +30,11 @@ a desktop Bitcoin client?
 
 If you keep your Bitcoins in your computer, when your computer is hacked or stolen your Bitcoins can be stolen.
 
+your mobile phone?
+-----------------
+
+There are a number of programs that will allow you to send bitcoins from your mobile phones.  Some are simply mobile interfaces to web wallets, and suffer from the same flaws.  Some are the same as desktop clients, and can suffer from malware or theft.
+
 a USB flash drive?
 ------------------
 
