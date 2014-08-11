@@ -9,11 +9,12 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   hardware
+   api
+   cryptography
    feature_list
    protection_levels
    signtx_workflow
-   hardware
-   cryptography
 
 License
 -------

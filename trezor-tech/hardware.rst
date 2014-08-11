@@ -1,6 +1,11 @@
 Hardware
 ========
 
+Board
+-----
+
+.. image:: images/trezor-pcb.jpg
+
 Schematics
 ----------
 
