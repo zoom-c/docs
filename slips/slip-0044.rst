@@ -35,7 +35,8 @@ index hexa       coin
 ===== ========== ================================
 0     0x80000000 Bitcoin
 1     0x80000001 Bitcoin Testnet
-===== ========== ================================
+2     0x80000002 Litecoin
+====== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
 
