@@ -19,3 +19,13 @@ Protobuf message definitions are stored in the `trezor-common <https://github.co
 
 - `messages.proto <https://github.com/trezor/trezor-common/blob/master/protob/messages.proto>`_ -- describes messages
 - `types.proto <https://github.com/trezor/trezor-common/blob/master/protob/types.proto>`_ -- describes data structures sent within the messages
+
+API workflows
+-------------
+
+Message ordering in the TREZOR protobuf protocol is significant.  You will find a list of standard workflows bellow:
+
+.. toctree::
+   :maxdepth: 2
+
+   api-workflows
