@@ -58,7 +58,7 @@ C. Select your TREZOR and press **Wipe device**
 D. Recover your TREZOR back to the old recovery seed and send your bitcoins to your new TREZOR account
 
  1. Run the :doc:`Recovery process <recovery>`
- 2. Once your old TREZOR is recovered send your bitcoins to the new TREZOR account who's address you wrote down in step B.
+ 2. Once your old TREZOR is recovered send your bitcoins to the new TREZOR account whose address you wrote down in step B.
 
 E. Select your TREZOR and press **Wipe device**
 
