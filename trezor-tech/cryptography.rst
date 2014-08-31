@@ -16,7 +16,7 @@ Mnemonic recovery seed (`BIP39 <https://github.com/bitcoin/bips/blob/master/bip-
 
     **Motivation**
     
-    A mnemonic code or sentence is superior for human interaction compared to the handling of raw binary or hexidecimal representations of a wallet seed. The sentence could be written on paper or spoken over the telephone.
+    A mnemonic code or sentence is superior for human interaction compared to the handling of raw binary or hexadecimal representations of a wallet seed. The sentence could be written on paper or spoken over the telephone.
     
     This guide meant to be as a way to transport computer-generated randomness over human readable transcription. It's not a way how to process user-created sentences (also known as brainwallet) to wallet seed.
 

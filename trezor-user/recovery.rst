@@ -17,7 +17,7 @@ Press the TREZOR recovery button.
 
 .. image:: images/recovery-start.png
 
-Enter the name of your TREZOR device.  If you settup your device without changing any advanced options you can simply press continue.  Otherwise configure the advanced options as they were before you lost your old TREZOR:  Look at your recovery card to see how many words your recovery seed has.  Check the "Additional passphrase encryption" box if your old TREZOR had a passphrase. And press continue.
+Enter the name of your TREZOR device.  If you setup your device without changing any advanced options you can simply press continue.  Otherwise configure the advanced options as they were before you lost your old TREZOR:  Look at your recovery card to see how many words your recovery seed has.  Check the "Additional passphrase encryption" box if your old TREZOR had a passphrase. And press continue.
 
 .. image:: images/recovery-enter-seed-word.png
 
