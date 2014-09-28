@@ -34,6 +34,6 @@ If you have your passphrase memorized and you haven't written it down anywhere, 
 
 In order to do this all you need to do is setup your TREZOR with a passphrase, then unplug and replug your TREZOR and enter a different passphrase.  Here's an example:
 
-I setup my TREZOR with the passphrase "lonelypumpkins" and load a large number of bitcoins onto my device.  I unplug/replug my TREZOR and enter the passphrase "funnyspirit".  I then send a few bitcents to the "funnyspirit" account.  When the thugs come and steal my TREZOR, I can now safely tell them that my passphrase is "funnyspirit".  They will be able to steel a few bitcents from me, but they won't be able to get at my fortune or even determine that a second passphrase exists.
+I setup my TREZOR with the passphrase "lonelypumpkins" and load a large number of bitcoins onto my device.  I unplug/replug my TREZOR and enter the passphrase "funnyspirit".  I then send a few bitcents to the "funnyspirit" account.  When the thugs come and steal my TREZOR, I can now safely tell them that my passphrase is "funnyspirit".  They will be able to steal a few bitcents from me, but they won't be able to get at my fortune or even determine that a second passphrase exists.
 
 .. note:: Do not use either the passphrase "lonelypumpkins" or "funnyspirit" to secure your TREZOR device!
