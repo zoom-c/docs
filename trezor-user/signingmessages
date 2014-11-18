@@ -1,0 +1,6 @@
+Signing messages
+================
+
+In order to sign message, go to the account page in myTREZOR and press Sign & Verify in the right top corner.  You should see a payment page like this:
+
+.. image:: images/signandverify_page.png
