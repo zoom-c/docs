@@ -13,7 +13,7 @@ You can type in the message text into Message field, then copy&paste one of your
 
 .. image:: images/signmessage.png
 
-**2. Confirm the signature on your TREZOR
+**2. Confirm the signature on your TREZOR**
 
 Once you have press "Sign" button, you will be asked to confirm the signature.  Check the text of the message.  If the text is correct, press the right button on your TREZOR to confirm.  If it is wrong, press 'cancel'.  If it is wrong, it may mean that your computer has been infected with a virus and you can be happy that your bitcoins are safe in your TREZOR, and not already stolen.
 
