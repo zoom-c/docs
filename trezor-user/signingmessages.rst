@@ -11,7 +11,7 @@ In order to sign message, go to the account page in myTREZOR and press Sign & Ve
 
 You can type in the message text into Message field, then copy&paste one of your **used** receiving addresses from one of your accounts in TREZOR into the Address field and press "Sign" button.
 
-.. image:: images/sigmessage.png
+.. image:: images/signmessage.png
 
 **2. Confirm the signature on your TREZOR
 
@@ -21,7 +21,7 @@ Once you have press "Sign" button, you will be asked to confirm the signature.  
 
 Once you have confirmed the signature on your TREZOR, the signature will appear on the screen:
 
-.. image:: images/sigmessagesigned.png
+.. image:: images/signmessagesigned.png
 
 
 
