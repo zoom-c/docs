@@ -13,6 +13,8 @@ Contents
    transfertotrezor
    makingpayments
    transactiondetails
+   signingmessages
+   verifyingmessages
    forgetting
    updatingfirmware
    recovery
