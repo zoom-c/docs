@@ -13,8 +13,6 @@ Contents
    transfertotrezor
    makingpayments
    transactiondetails
-   signingmessages
-   verifyingmessages
    forgetting
    updatingfirmware
    recovery
@@ -23,6 +21,7 @@ Contents
    securityphilosophy
    advanced_settings
    advanced_features
+   messages
 
 License
 -------

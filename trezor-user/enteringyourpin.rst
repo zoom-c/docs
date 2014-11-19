@@ -26,6 +26,6 @@ If you are not sure about what PIN to use, you may want to overview our :doc:`se
 
 .. important:: When you are setting up your TREZOR for the first time, you'll have to enter your new PIN twice.  Notice that the numbers shown on TREZOR change between the entries.
 
-You'll then need to enter this same PIN each time you process the first transaction of each session.
+You'll then need to enter this same PIN each time you are about the do the first transaction using your freshly plugged-in TREZOR.
 
 Now that you've entered your PIN you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.
