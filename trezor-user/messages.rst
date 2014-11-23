@@ -4,21 +4,24 @@ Messages
 Signing messages
 ----------------
 
-Signing messages is used to prove ownership of the current wallet. Typically when you have your wallet address registered on exchange websites and protected with 2FA and you loose access to your 2FA. If you want to prove you are the owner of the current wallet, you can use signed message to do so.
+Signing messages can be used to prove ownership of a specific bitcoin address.
 
-In order to sign message, go to the account page in myTREZOR and press Sign & Verify in the right top corner.  You should see a payment page like this:
+A common situation where this might be handy is:
+You have your bitcoin exchange account protected with 2FA, but you lose access to your 2FA tool (mobile phone, email). To get your account unlocked, you can be asked by the exchange operator to sign some message with that bitcoin address asociated with your exchange account.
+
+In order to sign a message, select the Account in myTREZOR.com and press Sign & Verify in the right top corner.  You should see a payment page like this:
 
 .. image:: images/signandverify_page.png
 
 **1. Signing the message**
 
-You can type in the message text into Message field, then copy&paste one of your **used** receiving addresses from one of your accounts in TREZOR into the Address field and press "Sign" button.
+Type in the message text into Message field, then copy & paste the particular bitcoin addresses into the Address field (note it has to be a **used** address) and confirm with clicking on "Sign".
 
 .. image:: images/signmessage.png
 
-**2. Confirm the signature on your TREZOR**
+**2. Confirming the signature on your TREZOR**
 
-Once you have press "Sign" button, you will be asked to confirm the signature.  Check the text of the message.  If the text is correct, press the right button on your TREZOR to confirm.  If it is wrong, press 'cancel'.  If it is wrong, it may mean that your computer has been infected with a virus and you can be happy that your bitcoins are safe in your TREZOR, and not already stolen.
+Check the text of the message on your TREZOR's diplay. If the text is correct, press the right button on your TREZOR to 'Confirm'.  
 
 .. image:: images/signmessageconfirmation.jpg
 
@@ -30,22 +33,23 @@ Once you have confirmed the signature on your TREZOR, the signature will appear 
 Verifying messages
 ------------------
 
-In order to verify message, go to the account page in myTREZOR and press Sign & Verify in the right top corner.  You should see a payment page like this:
+In order to verify message, select the Account at myTREZOR and press Sign & Verify in the right top corner. You should see a page like this:
 
 .. image:: images/signandverify_page.png
 
-**1. Verifying the message**
-
-You can copy&paste the signed message into Message field, then copy&paste specific address the message has been signed with into Address field, copy&paste the signature into Signature field and press "Verify" button.
+**1. Verifying a message**
+ 
+Copy & paste the signed message into the Message field, then paste the bitcoin address the message has been signed with into the Address field, and finally paste the signature into the Signature field. 
+Click on 'Verify'.
 
 .. image:: images/verifymessage.png
 
-**2. Check the verification on TREZOR**
+**2. Validating on TREZOR**
 
-Once you have press "Verify" button and the message is trully signed with the specified address, TREZOR will show you text of the message on it's screen. If it was not signed with specified address you will get an error message on MyTREZOR page.
+TREZOR should show the beginning of the message on it's display, if verified correctly. Otherwise, you will get an error message on myTREZOR page.
 
 .. image:: images/verifymessageconfirmation.jpg
 
-Once you have confirmed the verification on your TREZOR, the "Message verified" will apper on your screen:
+Once you have confirmed the verification on your TREZOR, a "Message verified" will appear on your computer screen:
 
 .. image:: images/verifymessageverified.png
