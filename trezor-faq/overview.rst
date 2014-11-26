@@ -50,3 +50,29 @@ What if I lose my TREZOR?
 -------------------------
 
 TREZOR comes with excellent support for paper wallets.  When you set up your TREZOR for the first time you will be told a list of secret words to write down.  Once you have written down this list, you can recover your Bitcoins at any time using a replacement TREZOR.
+
+Which wallets are compatible with TREZOR?
+-----------------------------------------
+
+**Wallets with full support:**
+
+- `MyTrezor <http://www.mytrezor.com>`_ 
+
+**Wallets with wallet recovery via 12/24 words (BIP39+BIP44):**
+
+- `Wallet32 (Android) <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ 
+
+**Wallets with transaction signature by TREZOR:**
+
+- `Electrum (desktop) <https://electrum.org/>`_ - testing
+- `Multibit HD (desktop) <https://multibit.org/>`_ - testing
+
+**Other wallets**
+
+- `Armory <https://bitcoinarmory.com/>`_ - waiting for multisignature support
+- `BitWallet (iOS) <https://itunes.apple.com/us/app/bitwallet-bitcoin-wallet/id777634714>`_ - supports BIP32+BIP39, doesn't support BIP44 - 
+- `Breadwallet (iOS) <https://itunes.apple.com/us/app/breadwallet-bitcoin-wallet/id885251393>`_ - supports BIP30+BIP32, doesn't support BIP44 
+- `BTCreceive (Android) <https://play.google.com/store/apps/details?id=com.bonsai.btcreceive>`_ - allows to import xpub + watch only mode
+- `Hive (iOS, Android) <https://hivewallet.com/>`_
+- `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_ - allows to import xpub + watch only mode
+
