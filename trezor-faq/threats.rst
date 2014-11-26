@@ -47,6 +47,12 @@ First off, this won't happen ;).  The SatoshiLabs master key is kept very safe. 
 
 You don't need to worry about the firmware being updated by a computer virus.  Your TREZOR will ask you to manually confirm the update before anything is written to the TREZOR's memory.
 
+What happens if the SatoshiLabs shuts down?
+===========================================
+
+There are no such plans because we love bitcoin, but even if we had to close down, there's nothing to worry about. 
+You can use your TREZOR together with other BIP32, BIP39 and BIP44 `compatible wallets <../trezor-faq/overview.rst#which_wallets_are_compatible_with_trezor>`_. Since our code is opensource, developers from around the world can maintain it and add new functionalities.
+
 What happens if my recovery seed is stolen?
 ===========================================
 
