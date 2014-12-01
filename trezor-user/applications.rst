@@ -1,5 +1,5 @@
-Applications
-============
+Related Applications
+====================
 
 myTREZOR Lite for Android
 -------------------------
