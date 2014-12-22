@@ -56,3 +56,17 @@ Which wallets are compatible with TREZOR?
 
 - `MyTREZOR <http://www.mytrezor.com>`_ - full support
 - `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_ - allows to import xpub + watch only mode
+- Electrum 2.0 does support TREZOR already (possible to build the client from `github <https://github.com/spesmilo/electrum>`_. If you are not able to compile the client from source, you need to wait for Electrum developers to build the packages for you)
+- Multibit HD beta supports it (however it still has not been released yet, please ask Multibit HD developers)
+- GreenAddress.it will support TREZOR since firmware 1.3.0 with Multisig support release
+- Armory support planned
+- BitPay's Copay support planned
+
+Which wallets can be used to recover your seed without TREZOR?
+------------------------------------------------------------
+
+These wallets are not compatible, but if you lose your TREZOR, you can use them to recover your seed into:
+
+- `Mycelium Bitcoin Wallet for Android <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ - supports full recovery
+- `Mycelium Bitcoin Wallet for iOS <https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290>`_ - supports 12 words recovery only
+- `Wallet32 for Android <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ - supports full recovery
