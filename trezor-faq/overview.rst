@@ -51,22 +51,30 @@ What if I lose my TREZOR?
 
 TREZOR comes with excellent support for paper wallets.  When you set up your TREZOR for the first time you will be told a list of secret words to write down.  Once you have written down this list, you can recover your Bitcoins at any time using a replacement TREZOR.
 
-Which wallets are compatible with TREZOR?
------------------------------------------
+Which wallets are compatible with TREZOR hardware?
+--------------------------------------------------
 
-- `MyTREZOR <http://www.mytrezor.com>`_ - full support
-- `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_ - allows to import xpub + watch only mode
-- Electrum 2.0 does support TREZOR already (possible to build the client from `github <https://github.com/spesmilo/electrum>`_. If you are not able to compile the client from source, you need to wait for Electrum developers to build the packages for you)
-- Multibit HD beta supports it (however it still has not been released yet, please ask Multibit HD developers)
-- GreenAddress.it will support TREZOR since firmware 1.3.0 with Multisig support release
+These wallets can communicate with TREZOR hardware and use its full potential.
+
+- `MyTREZOR <http://www.mytrezor.com>`_
+- Electrum 2.0 (binaries not released yet, sources available from `github <https://github.com/spesmilo/electrum>`_)
+- Multibit HD (not released yet, in closed beta, ask Multibit HD developers for access)
+- GreenAddress.it (once 1.3.0 firmware with Multisig support is released)
 - Armory support planned
 - BitPay's Copay support planned
 
-Which wallets can be used to recover your seed without TREZOR?
-------------------------------------------------------------
+Which wallets are compatible with TREZOR recovery seed?
+-------------------------------------------------------
 
-These wallets are not compatible, but if you lose your TREZOR, you can use them to recover your seed into:
+These wallets cannot communicate with TREZOR hardware yet, but you can use them to access your funds using TREZOR recovery seed.
 
 - `Mycelium Bitcoin Wallet for Android <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ - supports full recovery
-- `Mycelium Bitcoin Wallet for iOS <https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290>`_ - supports 12 words recovery only
+- `Mycelium Bitcoin Wallet for iOS <https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290>`_ - supports 12 words recovery only (18 and 24 words soon)
 - `Wallet32 for Android <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ - supports full recovery
+
+Which watch-only wallets can import TREZOR account public keys (xpub)?
+----------------------------------------------------------------------
+
+These wallets cannot operate with your funds, but you can use them to watch transactions and generate receive addresses for your TREZOR accounts.
+
+- `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_
