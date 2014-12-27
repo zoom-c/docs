@@ -43,9 +43,9 @@ index hexa       coin
 7     0x80000007 Namecoin
 8     0x80000008 Feathercoin
 9     0x80000009 Counterparty
-10    0x80000010 Blackcoin
-11    0x80000011 NuShares
-12    0x80000012 NuBits
+10    0x8000000a Blackcoin
+11    0x8000000b NuShares
+12    0x8000000c NuBits
 ===== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
