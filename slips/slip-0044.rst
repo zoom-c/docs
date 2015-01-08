@@ -46,6 +46,7 @@ index hexa       coin
 10    0x8000000a Blackcoin
 11    0x8000000b NuShares
 12    0x8000000c NuBits
+13    0x8000000d Mazacoin
 ===== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
