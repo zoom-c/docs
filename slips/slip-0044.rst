@@ -34,7 +34,7 @@ All these constants are used as hardened derivation.
 index hexa       coin
 ===== ========== ================================
 0     0x80000000 Bitcoin
-1     0x80000001 Bitcoin Testnet
+1     0x80000001 Testnet (all coins)
 2     0x80000002 Litecoin
 3     0x80000003 Dogecoin
 4     0x80000004 Reddcoin
