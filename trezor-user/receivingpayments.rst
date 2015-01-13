@@ -5,9 +5,17 @@ Once you've set up your TREZOR your myTREZOR wallet will now appear.
 
 .. image:: images/emptywallet.png
 
-If you press on the Account #1 button you will see a list of addresses.  Big strings of numbers and letters.  You will also see a `QR code`_.
+If you press on the Account #1 button you will see a list of addresses.  Big strings of numbers and letters.  You will also see a `QR code`_ and icon of the eye.
 
-.. image:: images/accountpage.png
+.. image:: images/checkaddress_comp.png
+
+Eye icon is very helpful feature! We call it a "Check address button" which shows the receive address on TREZOR display, so you can make sure the receive address belongs to your TREZOR.
+
+.. image:: images/checkaddress_comp2.png
+
+And here is what you see on your TREZOR. It displays the QR code of the receiving address as well, so you can scan it with QR scanner directly from the TREZOR device.
+
+.. image:: images/checkaddress_trezor.png
 
 You don't have to keep these addresses secret.  Indeed, you should share them as widely as possible because it is with these numbers that people can send you money!
 
