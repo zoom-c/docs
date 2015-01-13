@@ -20,7 +20,7 @@ CipherKeyValue        ✔      ✔   ✔          (button only if ask_encrypt/as
 ApplySettings         ✔      ✔
 GetAddress                       ✔
 SignMessage           ✔      ✔   ✔
-VerifyMessage         ✔
+VerifyMessage         
 RecoveryDevice
 EstimateTxSize
 ===================== ====== === ========== ==============
