@@ -9,7 +9,7 @@ If you press on the Account #1 button you will see a list of addresses.  Big str
 
 .. image:: images/checkaddress_comp.png
 
-Eye icon is very helpful feature! We call it a "Check address button" which shows the receive address on TREZOR display, so you can make sure the receive address belongs to your TREZOR.
+Eye icon is very helpful feature! We call it a "Show on TREZOR" which shows the receive address on TREZOR display, so you can make sure the receive address belongs to your TREZOR.
 
 .. image:: images/checkaddress_comp2.png
 
