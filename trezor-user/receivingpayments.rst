@@ -15,7 +15,7 @@ Eye icon is very helpful feature! We call it a "Show on TREZOR" which shows the 
 
 And here is what you see on your TREZOR. It displays the QR code of the receiving address as well, so you can scan it with QR scanner directly from the TREZOR device.
 
-.. image:: images/checkaddress_trezor.png
+.. image:: images/checkaddress_trezor.jpg
 
 You don't have to keep these addresses secret.  Indeed, you should share them as widely as possible because it is with these numbers that people can send you money!
 
