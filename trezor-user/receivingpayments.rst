@@ -21,7 +21,7 @@ It might help you avoid phishing attempts aimed at replacing your true receiving
 Here's an example of what you see on your TREZOR display after clicking "Show on TREZOR".
 
 .. image:: images/checkaddress_trezor.jpg
-   :height: 100px
+   :width: 50%
 
 You may also use the "More please +" button to create more receiving addresses. Why would you want more addresses? Say you use the first address to receive your salary. You can tell when your employer has payed you because you receive bitcoins on that address. Now, you want to sell your lawnmower to Bob. How do you know when Bob has payed you and which payment came from Bob? You can create a new bitcoin address specially for Bob. When bitcoins come in to that address you know that its Bob paying you and not your employer.
 
