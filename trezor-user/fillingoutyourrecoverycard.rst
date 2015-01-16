@@ -17,6 +17,8 @@ Once you have done so, you're ready to start using your TREZOR device!
 
 .. note:: It is safe to unplug your TREZOR device at any time except during updates.
 
+.. hint:: You can print more :download:`recovery cards <images/recovery_card.pdf>` and store them at different physical locations.
+
 - Continue to :doc:`receivingpayments`
 
 - Continue to :doc:`makingpayments`
