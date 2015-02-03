@@ -24,7 +24,7 @@ In contrast to the various pieces of software and web services that allow you to
 Which operating systems and devices support TREZOR?
 ---------------------------------------------------
 
-There is full support in Windows, OS X and Linux.  Support for using your TREZOR with Android devices which have USB On-The-Go (aka USB Host) support is planned in a future release.
+There is full support in Windows, OS X (version 10.8 and higher) and Linux.  Support for using your TREZOR with Android devices which have USB On-The-Go (aka USB Host) support is planned in a future release.
 
 What kind of hardware specs does the TREZOR have?
 -------------------------------------------------
