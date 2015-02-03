@@ -26,6 +26,11 @@ Which operating systems and devices support TREZOR?
 
 There is full support in Windows, OS X (version 10.8 and higher) and Linux.  Support for using your TREZOR with Android devices which have USB On-The-Go (aka USB Host) support is planned in a future release.
 
+Can I plug TREZOR into USB 3.0 (blue) port?
+-------------------------------------------
+
+No TREZOR is USB 2.0 (black port) compatible device. It might not work properly when plugged into USB 3.0 (blue port).
+
 What kind of hardware specs does the TREZOR have?
 -------------------------------------------------
 
