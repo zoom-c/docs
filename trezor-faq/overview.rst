@@ -61,10 +61,10 @@ Which wallets are compatible with TREZOR hardware?
 
 These wallets can communicate with TREZOR hardware and use its full potential.
 
-- `MyTREZOR <http://www.mytrezor.com>`_
+- `myTREZOR <http://www.mytrezor.com>`_
 - Electrum 2.0 (binaries not released yet, sources available from `github <https://github.com/spesmilo/electrum>`_)
 - Multibit HD (not released yet, in closed beta, ask Multibit HD developers for access)
-- GreenAddress.it (once 1.3.0 firmware with Multisig support is released)
+- `GreenAddress.it <http://www.greenaddress.it>`_ (once 1.3.0 firmware with Multisig support is released)
 - Armory support planned
 - BitPay's Copay support planned
 
@@ -82,4 +82,4 @@ Which watch-only wallets can import TREZOR account public keys (xpub)?
 
 These wallets cannot operate with your funds, but you can use them to watch transactions and generate receive addresses for your TREZOR accounts.
 
-- `MyTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_
+- `myTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_
