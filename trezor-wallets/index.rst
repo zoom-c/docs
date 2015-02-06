@@ -7,9 +7,10 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   overview
-   differences
-   threats
+   GreenAddress.it
+   GreenBits
+   MyTREZOR
+   MyTREZOR Lite
 
 
 License
