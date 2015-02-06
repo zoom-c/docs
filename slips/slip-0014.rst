@@ -67,6 +67,7 @@ Transactions
   2  338841 1869cdbb3a86ab8b71a3e4a0d11135926b18f62bc0ebeb8e8a56635135616f00 regular outgoing transaction
   3  341049 485579924ce684df7aa7a9861abb4b2858a8d917aa1df94bf3a234368a250516 coinbase transaction
   4  341650 a831a97917a3ae58a3c0cd700ed7ef08529b8218d3f71ed16152c7898c3d909e regular outgoing transaction
+  5  342246 f54fae106758ffa17822b0f959f267eb9514b2fd7e15b89a98dad6e319e2af0c sent to myself (in same account)
 ==== ====== ================================================================ ============================
 
 References
