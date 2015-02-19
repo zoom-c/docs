@@ -50,7 +50,7 @@ index hexa       coin
 14    0x8000000e Viacoin
 15    0x8000000f ClearingHouse
 16    0x80000010 Rubycoin
-17    0x80000011
+17    0x80000011 Groestlcoin
 18    0x80000012 Digitalcoin
 19    0x80000013 Cannacoin
 20    0x80000014 DigiByte
