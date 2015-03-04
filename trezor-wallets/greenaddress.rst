@@ -1,11 +1,7 @@
-TREZOR with GreenAddress.it
-===========================
+GreenAddress
+============
 
 What is GreenAddress?
 ---------------------
-web: `GreenAddress <https://www.greenaddress.it/en>`_
-GreenAddress is deterministic hierarchical multi-sig wallet.
 
-Login to GreenAddress with TREZOR
----------------------------------
-
+`GreenAddress <https://www.greenaddress.it/>`_ is a multi-signature web wallet.

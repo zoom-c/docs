@@ -1,17 +1,17 @@
-TREZOR-compatible wallets
-=========================
+TREZOR Wallets
+==============
 
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   GreenAddress.it
-   GreenBits
-   MyTREZOR
-   MyTREZOR Lite
-
+   mytrezor
+   mytrezor_lite
+   greenaddress
+   electrum
+   multibit
 
 License
 -------
