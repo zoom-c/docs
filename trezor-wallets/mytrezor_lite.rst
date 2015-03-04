@@ -1,6 +1,8 @@
 myTREZOR Lite
 =============
 
+.. image:: images/mytrezor_lite_logo.png
+
 What is myTREZOR Lite?
 ----------------------
 
