@@ -1,0 +1,13 @@
+.share-buttons {
+	list-style: none;
+}
+
+.share-buttons li {
+	display: inline;
+	opacity: 0.25;
+}
+
+.share-buttons li:hover {
+	display: inline;
+	opacity: 0.75;
+}
