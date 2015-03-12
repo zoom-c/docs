@@ -54,8 +54,8 @@ HD Structure
 
 5. Derive the HD node m/46'/A'/B'/C'/D' according to BIP32.
 
-Challenge-response
-------------------
+Challenge - Response
+--------------------
 
 Service issues the challenge consisting of three parts:
 
