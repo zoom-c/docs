@@ -33,9 +33,9 @@ a) RFC 3986 URI proto://[user@]host[:port][/path]
 
 Examples:
 
-https://example.com
-ftp://public@example.com/pub
-ssh://root@example.com:2222
+- https://example.com
+- ftp://public@example.com/pub
+- ssh://root@example.com:2222
 
 b) index (32-bit unsigned integer)
 
