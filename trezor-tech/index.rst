@@ -1,5 +1,5 @@
-TREZOR Technical Manual
-=======================
+TREZOR Developer's Guide
+========================
 
 .. important:: This Manual is Work-in-Progress material and might not make sense to casual viewer.
 
@@ -11,6 +11,7 @@ Contents
 
    hardware
    api
+   connect
    cryptography
    resources
    feature_list
