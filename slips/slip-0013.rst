@@ -1,9 +1,9 @@
-SLIP-0046 : Authentication using deterministic hierarchy
+SLIP-0013 : Authentication using deterministic hierarchy
 ========================================================
 
 ::
 
-  Number:  SLIP-0046
+  Number:  SLIP-0013
   Title:   Authentication using deterministic hierarchy
   Type:    Standard
   Status:  Draft
@@ -52,7 +52,7 @@ HD Structure
 
 4. Set highest bits of numbers A, B, C, D to 1.
 
-5. Derive the HD node m/46'/A'/B'/C'/D' according to BIP32.
+5. Derive the HD node m/13'/A'/B'/C'/D' according to BIP32.
 
 Challenge - Response
 --------------------
