@@ -7,15 +7,16 @@ Once you've got the TREZOR bridge installed go to |myTrezor| again.  This time y
 
 .. image:: images/welcometosetup.png
 
-Enter a new name for your TREZOR device and press Continue.  You should see a matrix of question marks.  Now go on to :doc:`Entering your PIN <enteringyourpin>`.
+Enter a new name for your TREZOR device and press Continue.  You should see the first seed word.  Now go on to :doc:`Filling out your Recovery Card <fillingoutyourrecoverycard>`.
 
 .. note:: There are also several :doc:`Advanced settings <advanced_settings>` that you can configure.
 
 .. toctree::
    :maxdepth: 2
 
-   enteringyourpin
    fillingoutyourrecoverycard
+   basicsettings
+   enteringyourpin
 
 .. You don't need to use the |myTrezor| webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TREZOR including:
 
