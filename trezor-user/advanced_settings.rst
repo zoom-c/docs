@@ -1,16 +1,16 @@
 Advanced settings
 =================
 
-There are several advanced settings that can be configured while setting up your TREZOR device.  For the most part, these settings can be accessed by pressing the "Advanced settings" button right after you have plugged your TREZOR in for the first time or after wiping the device.
+There are several advanced settings that can be configured after setting up your TREZOR device.  For the most part, these settings can be accessed by pressing the "Advanced settings" button right after you have plugged your TREZOR.
 
 .. image:: images/welcometosetup-advanced.png
 
-Disabling PIN protection
--------------------------
+Disable PIN protection
+----------------------
 
-myTREZOR.com will ask you for your PIN the first time you try to make a transaction after plugging in your TREZOR.  PIN protection reduces the risk that a person with physical access to your TREZOR device will be able to steal your bitcoins.  The TREZOR PIN works in such a way that even the computer you use with your TREZOR never finds out your PIN.  It is possible to disable PIN protection using the Change PIN button and entering empty PIN.
+It is possible to disable PIN protection using the Disable PIN button, however we do not recommend to do so, as  PIN protection reduces the risk that a person with physical access to your TREZOR device will be able to steal your bitcoins. MyTREZOR.com will ask you for your PIN the first time you try to make a transaction after plugging in your TREZOR and it works in such a way that even the computer you use with your TREZOR never finds out your PIN.
 
-.. warning:: Even if you have configured a passphrase for your TREZOR DO NOT DISABLE PIN PROTECTION!
+.. warning:: We DO NOT recommend to DISABLE PIN PROTECTION even if you have configured a passphrase for your TREZOR!
 
 Using passphrase encrypted seeds
 --------------------------------
@@ -21,7 +21,9 @@ One limitation of the passphrase approach is that you have to enter your passphr
 
 The flip side to this extreme level of security is that if you forget your passphrase your bitcoins are lost.  Really lost!
 
-Multi-passphrase encryption (hidden volumes)
+.. note: If you have stored some funds in your TREZOR before setting up the passphrase encryption, they will not appear after enabling the passphrase. But don't worry, they are not lost. You can  access them by entering empty passphrase.
+
+Multi-passphrase encryption (hidden wallets)
 --------------------------------------------
 
 Security researchers have a habit of coming up with spicy names for simple attacks.  One such attack is referred to as the $5 wrench attack.
