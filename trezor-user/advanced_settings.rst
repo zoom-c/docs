@@ -21,7 +21,7 @@ One limitation of the passphrase approach is that you have to enter your passphr
 
 The flip side to this extreme level of security is that if you forget your passphrase your bitcoins are lost.  Really lost!
 
-.. note: If you have stored some funds in your TREZOR before setting up the passphrase encryption, they will not appear after enabling the passphrase. But don't worry, they are not lost. You can  access them by entering empty passphrase.
+.. note:: If you have stored some funds in your TREZOR before setting up the passphrase encryption, they will not appear after enabling the passphrase. But don't worry, they are not lost. You can  access them by entering empty passphrase.
 
 Multi-passphrase encryption (hidden wallets)
 --------------------------------------------
