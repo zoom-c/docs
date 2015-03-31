@@ -15,7 +15,7 @@ Enter a new name for your TREZOR device and press Continue.  You should see the 
    :maxdepth: 2
 
    fillingoutyourrecoverycard
-   basicsettings
+   basic_settings
    enteringyourpin
 
 .. You don't need to use the |myTrezor| webservice if you want to use your TREZOR device.  You can use any bitcoin software that supports TREZOR including:
