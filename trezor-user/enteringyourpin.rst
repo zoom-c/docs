@@ -19,6 +19,7 @@ So if you were to copy the numbers from your TREZOR's screen onto the dot pad in
 
 Now entering your PIN should be easy!
 
+
 Choose a good PIN
 -------------------
 
@@ -28,4 +29,8 @@ If you are not sure about what PIN to use, you may want to overview our :doc:`se
 
 You'll then need to enter this same PIN each time you are about the do the first transaction using your freshly plugged-in TREZOR.
 
-Now that you've entered your PIN you can move on to :doc:`Filling out your recovery card <fillingoutyourrecoverycard>`.
+- Continue to :doc:`receivingpayments`
+
+- Continue to :doc:`makingpayments`
+
+- Continue to set up :doc:`advanced_settings`
