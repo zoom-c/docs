@@ -4,13 +4,19 @@ TREZOR Frequently Asked Questions
 Contents
 --------
 
-.. toctree::
-   :maxdepth: 2
+..	toctree::
+	:maxdepth: 3
 
-   overview
-   differences
-   threats
-
+	overview
+	differences
+	software
+	eshop
+	warranty
+	refunds
+	threats
+	hardware
+	development
+	affiliate	
 
 License
 -------

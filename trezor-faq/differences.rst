@@ -5,6 +5,7 @@ How is TREZOR different from ...
 an ordinary Web Wallet?
 -----------------------
 
+
 When you store your Bitcoins in a traditional web wallet you put your Bitcoins at risk of being stolen, lost, or confiscated.  Here is a list of ways people have lost their Bitcoins through use of a traditional web wallet:
 
  - User's computer is hacked and web wallet password is stolen
