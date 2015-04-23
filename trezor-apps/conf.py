@@ -44,8 +44,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-module_name = 'trezor-wallets'
-project = u'TREZOR Wallets'
+module_name = 'trezor-apps'
+project = u'TREZOR Apps'
 author = u'SatoshiLabs'
 copyright = u'2015, ' + author
 

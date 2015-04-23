@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 module_name = 'trezor-tech'
-project = u'TREZOR Technical Manual'
+project = u'TREZOR Developer\'s guide'
 author = u'SatoshiLabs'
 copyright = u'2015, ' + author
 
