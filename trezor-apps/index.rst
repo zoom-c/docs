@@ -35,8 +35,8 @@ LEGEND |
 :icon:`fire` Wipe device | 
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_
 
-Wallets supporting software recovery
-------------------------------------
+Wallets supporting Seed Recovery
+--------------------------------`
 
 The following wallets allow you to access your funds using the recovery seed in case your TREZOR device gets lost, is damaged or stolen:
  
