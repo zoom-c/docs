@@ -1,7 +1,9 @@
 TREZOR Apps
 ===========
 
-Our TREZOR device is supported by multiple **client wallets and online services**. We call them TREZOR Apps. Find more information about them below.
+.. image:: images/chapter02.jpg
+
+Our TREZOR device is supported by multiple **client wallets and online services**. We call them **TREZOR Apps**. Find more information about them below.
 
 Wallets supporting TREZOR
 -------------------------
@@ -68,35 +70,19 @@ LEGEND |
 Ongoing integrations
 --------------------
 
-If you actively working on TREZOR support or planing to support it, please let us know more details at integration@satoshilabs.com. We will gladly include you in the following table
+If you actively working on TREZOR support or planing to support it, please let us know more details at integration@satoshilabs.com. 
+We will gladly include you in the following list of **wallets and services with future TREZOR support**.
 
-==================================================== ====================================================================================================================
-Wallets and services with future TREZOR support
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-`Armory <https://bitcoinarmory.com>`_                Wallet support planned
-`Bitstamp <https://www.bitstamp.net>`_               `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
-`Coinkite <https://coinkite.com>`_					 Wallet support planned
-`Coinsimple <coinsimple.html>`_                      `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
-`Copay <https://copay.io>`_                          Wallet support planned
-`GreenAddress <https://greenaddress.it/>`_           Wallet support work in progress
-`Slush pool <slush-pool.html>`_                      `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
-==================================================== ====================================================================================================================
+- `Armory <https://bitcoinarmory.com>`_ - wallet support planned
+- `Bitstamp <https://www.bitstamp.net>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
+- `Coinkite <https://coinkite.com>`_ - wallet support planned
+- `Coinmap <http://coinmap.org>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
+- `Coinsimple <coinsimple.html>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
+- `Copay <https://copay.io>`_ - multisig wallet support planned
+- `GreenAddress <https://greenaddress.it/>`_ - multisig wallet support work in progress
+- `Slush pool <http://mining.bitcoin.cz/home/>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
 
 .. `Bitstock <https://www.bitstock.com>`_               TREZOR Connect support planned
-
-Contents
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   coinprism
-   electrum
-   encompass
-   multibit
-   mycelium
-   mytrezor
-   mytrezor-lite
 
 License
 -------
@@ -107,3 +93,17 @@ Contributing
 ------------
 
 The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pull requests are welcome!
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   
+   coinpayments 
+   coinprism 
+   coinsimple 
+   electrum 
+   encompass 
+   multibit 
+   mycelium 
+   mytrezor 
+   mytrezor-lite
