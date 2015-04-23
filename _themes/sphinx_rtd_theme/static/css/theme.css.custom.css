@@ -11,3 +11,15 @@
 	display: inline;
 	opacity: 0.75;
 }
+
+.fa-user-secret:before {
+  content: "\f21b";
+}
+
+.fa-paint-brush:before {
+  content: "\f1fc";
+}
+
+.fa-eyedropper:before {
+  content: "\f1fb";
+}
