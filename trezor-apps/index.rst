@@ -3,12 +3,12 @@ TREZOR Apps
 
 .. image:: images/chapter02.jpg
 
-Our TREZOR device is supported by multiple **client wallets and online services**. We call them **TREZOR Apps**. Find more information about them below.
+Except for `myTrezor.com <https://mytrezor.com>`_, you can use your TREZOR device with increasing number of independent **bitcoin wallets and online services**. We call them **TREZOR Apps**. 
 
-Wallets supporting TREZOR
--------------------------
+Using TREZOR With Bitcoin and Altcoin Wallets 
+---------------------------------------------
 
-The following table summarizes TREZOR features supported in various client wallets on different platforms. Click on the wallet name for detailed information.
+Click on the wallet's name for more information.
 
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 Supported TREZOR features
@@ -20,7 +20,6 @@ Wallet                                               :icon:`cog`              :i
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
 `Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
-`myTREZOR Lite <mytrezor-lite.html>`_                                                                                                                                                                                    ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
 LEGEND | 
@@ -37,23 +36,11 @@ LEGEND |
 :icon:`fire` Wipe device | 
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_
 
-Wallets supporting Seed Recovery
---------------------------------
+Using TREZOR With Online Services
+---------------------------------
 
-The following wallets allow you to access your funds using the recovery seed in case your TREZOR device gets lost, is damaged or stolen:
- 
-- `Electrum <https://electrum.org/#download>`_ (Linux, Windows, OSX, Android)
-- `Encompass <https://maza.club/encompass>`_ (Linux, Windows, Android)
-- `MultiBit HD <https://beta.multibit.org>`_ (Linux, Windows, OSX)
-- Mycelium (iOS)
-- `Mycelium <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ (Android)
-- `Wallet32 <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ (Android)
-
-
-Services supporting TREZOR
---------------------------
-
-TREZOR device is also supported by various online services like exchanges, payment processors, mining pools and others. Most common supoprted feature is passwordless login through Sign in with TREZOR. Click on a name of service for more details.
+Following websites allow you a secure password-less **Sign in with TREZOR** or other great bitcoin related services, 
+e.g. creating invoices from your TREZOR accounts. Click on the name of the service for more details.
 
 ==================================================== ===================================== ==============================================================================================
 Service                                              Feature(s)                            Description
@@ -67,11 +54,22 @@ LEGEND |
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ | 
 :icon:`eye-slash` Watch-only mode
 
-Ongoing integrations
+Recovering TREZOR Seed in Other Wallets 
+---------------------------------------
+
+Access your bitcoins fast, in case your TREZOR device gets lost or damaged.
+ 
+- `Electrum <https://electrum.org/#download>`_ (Linux, Windows, OSX, Android)
+- `Encompass <https://maza.club/encompass>`_ (Linux, Windows, Android)
+- `MultiBit HD <https://beta.multibit.org>`_ (Linux, Windows, OSX)
+- Mycelium (iOS) - search AppStore on your mobil to download
+- `Mycelium <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ (Android)
+- `Wallet32 <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ (Android)
+
+Ongoing Integrations
 --------------------
 
-If you actively working on TREZOR support or planing to support it, please let us know more details at integration@satoshilabs.com. 
-We will gladly include you in the following list of **wallets and services with future TREZOR support**.
+Are you actively working on adding TREZOR support to your application? Get in touch with us via integration@satoshilabs.com. We will gladly include you in the following list.
 
 - `Armory <https://bitcoinarmory.com>`_ - wallet support planned
 - `Bitstamp <https://www.bitstamp.net>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
@@ -106,4 +104,3 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    multibit 
    mycelium 
    mytrezor 
-   mytrezor-lite
