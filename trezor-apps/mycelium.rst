@@ -1,17 +1,18 @@
 Mycelium
 ========
 
-.. image:: images/mycelium_logo.png
+.. image:: images/mycelium_logo.png 
+
 
 What is Mycelium?
 -----------------
 
-`Mycelium <https://mycelium.com/>`_ is a mobile Bitcoin wallet for Android and iOS. 
+`Mycelium <https://mycelium.com/>`_ is a mobile Bitcoin wallet for Android and iOS, although TREZOR is curently supported only on Android device.
 
 =================================================== =================== ===========================================================================================================
 Wallet Property                                                         Description
 ----------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-:icon:`laptop` Platform                 			✔                   Android, iOS
+:icon:`laptop` Platform                 			✔                   Android
 :icon:`money` Coin(s)                   			✔                   Bitcoin
 :icon:`language` Languages                          ✔                   English and many others.              
 :icon:`book` Address Book                           ✔                   Manage contact list of receiving and sending addresses
@@ -45,9 +46,8 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- Website: `mycelium.com <https://mycelium.com>`_
-- Download for Android OS: `here <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_
-- Download iOS: search for "mycelium" in AppStore
+- `Website <https://mycelium.com>`_
+- `Download for Android <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_
 
 TREZOR User Manual
 ------------------

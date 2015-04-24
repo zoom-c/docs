@@ -1,12 +1,13 @@
-Your Wallet Template
-===================
-- navigation icons
-- compatibility level from 1 to 5
+Wallet Template
+===============
+
+.. image:: images/x_logo.png
+
 
 What is Wallet-Name?
 -------------------------
-- description
-- `Walletname <https://www.walletname.com/>`_ is a multi-signature web wallet.
+
+- `X <https://x.com>`_ is ... .
 
 =================================================== =================== ===========================================================================================================
 Wallet Property                                                         Description
@@ -55,3 +56,4 @@ Resources
 TREZOR User Manual
 ------------------
 
+.. image:: images/x01.png
