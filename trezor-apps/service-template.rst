@@ -11,11 +11,11 @@ What is ?
 Resources
 ---------
 
-- Website: ` <>`_
-- Downloads: ` <>`_
-- Support: link/email
-- Social: ` <>`_
-- User manual: ` <>`_
+- `Website <>`_
+- `Downloads <>`_
+- `Support <>`_
+- `Social <>`_
+- `User manual <>`_
 
 TREZOR User Manual
 ------------------

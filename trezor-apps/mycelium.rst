@@ -28,7 +28,7 @@ Trezor Feature                                                          Descript
 :icon:`users` Multisig transactions                                     Sign multisignature transaction with TREZOR
 :icon:`user-secret` Hidden Wallets  			    ✔                   User can access hidden wallets each behind arbitrary passphrase
 :icon:`bars` Multiple Accounts           			✔					Capable of creating and working with multiple accounts
-:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displayign PIN matrix on TREZOR's display
+:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displaying PIN matrix on TREZOR's display
 :icon:`eye-slash` Watch-only mode                   ✔                   Remembering account, generating new receiving address with TREZOR disconected
 :icon:`eye`  Show on TREZOR     			          					Phishing protection, validation receiving address on TREZOR
 :icon:`sliders` Change PIN              			                    User can change TREZOR's PIN

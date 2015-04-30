@@ -15,7 +15,7 @@ Wallet Property                                                         Descript
 :icon:`money` Coin(s)                   			✔                   Bitcoin
 :icon:`language` Languages                          ✔                   English and `over 40 other languages <https://crowdin.com/project/multibit-hd>`_
 :icon:`book` Address Book                           ✔                   Manage contact list of receiving and sending addresses
-:icon:`comment` Labelling                			✔					Add comments and labels to accounts and transactions
+:icon:`comment` Labelling                			 					Add comments and labels to accounts and transactions
 =================================================== =================== ===========================================================================================================
 
 =================================================== =================== ===========================================================================================================
@@ -27,11 +27,11 @@ Trezor Feature                                                          Descript
 :icon:`users` Multisig transactions                                     Sign multisignature transaction with TREZOR
 :icon:`user-secret` Hidden Wallets  			                        User can access hidden wallets each behind arbitrary passphrase
 :icon:`bars` Multiple Accounts           			 					Capable of creating and working with multiple accounts
-:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displayign PIN matrix on TREZOR's display
-:icon:`eye-slash` Watch-only mode                   ✔                   Remembering account, generating new receiving address with TREZOR disconected
+:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displaying PIN matrix on TREZOR's display
+:icon:`eye-slash` Watch-only mode                                       Remembering account, generating new receiving address with TREZOR disconected
 :icon:`eye`  Show on TREZOR     			          					Phishing protection, validation receiving address on TREZOR
 :icon:`sliders` Change PIN              			✔                   User can change TREZOR's PIN
-:icon:`sliders` Change Name          			   	✔                   User can change TREZOR's name
+:icon:`sliders` Change Name          			   	                    User can change TREZOR's name
 :icon:`paint-brush` Custom Homescreen            	 					User can upload personalized default screen
 :icon:`upload`  Update Firmware         			   					Notify user and update firmware when new version is available
 :icon:`fire` Wipe device                 			✔					Erase private keys from TREZOR
@@ -46,10 +46,10 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- Website: `beta.multibit.org <https://beta.multibit.org>`_
-- Donwload: `beta.multibit.org/download.html <https://beta.multibit.org/download.html>`_
-- Support: `beta.multibit.org/en/help <https://beta.multibit.org/en/help/hd0.1/contents.html>`_
-- Blog: `beta.multibit.org/blog.html <https://beta.multibit.org/blog.html>`_
+- `Website <https://beta.multibit.org>`_
+- `Donwload <https://beta.multibit.org/download.html>`_
+- `Support <https://beta.multibit.org/en/help/hd0.1/contents.html>`_
+- `Blog <https://beta.multibit.org/blog.html>`_
 
 TREZOR User Manual
 ------------------
