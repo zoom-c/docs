@@ -27,15 +27,15 @@ Trezor Feature                                                          Descript
 :icon:`users` Multisig transactions                                     Sign multisignature transaction with TREZOR
 :icon:`user-secret` Hidden Wallets  			    ✔                   User can access hidden wallets each behind arbitrary passphrase
 :icon:`bars` Multiple Accounts           			✔					Capable of creating and working with multiple accounts
-:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displayign PIN matrix on TREZOR's display
+:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displaying PIN matrix on TREZOR's display
 :icon:`eye-slash` Watch-only mode                   ✔                   Remembering account, generating new receiving address with TREZOR disconected
-:icon:`eye`  Show on TREZOR     			          					Phishing protection, validation receiving address on TREZOR
+:icon:`eye`  Show on TREZOR     			        ✔  					Phishing protection, validation receiving address on TREZOR
 :icon:`sliders` Change PIN              			                    User can change TREZOR's PIN
-:icon:`sliders` Change Name          			   	                    User can change TREZOR's name
+:icon:`sliders` Change Name          			   	✔                   User can change TREZOR's name
 :icon:`paint-brush` Custom Homescreen            	 					User can upload personalized default screen
 :icon:`upload`  Update Firmware         			   					Notify user and update firmware when new version is available
-:icon:`fire` Wipe device                 			 					Erase private keys from TREZOR
-:icon:`envelope` Sign Message                                           Securely sign short text
+:icon:`fire` Wipe device                 								Erase private keys from TREZOR
+:icon:`envelope` Sign Message                       ✔                   Securely sign short text
 :icon:`envelope` Verify Message                                         Securely verify short text
 :icon:`magnet` Fast Recovery                                            Recover by directly loading seed into TREZOR, fast but less safe way to recover wallet
 :icon:`lock` Wallet Encryption                                          Wallet can be decrypted and opened using TREZOR only
@@ -45,10 +45,10 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- Website: `www.eletrum.org <https://www.electrum.org/>`_
-- Downloads: `www.electrum.org/#download <https://electrum.org/#download>`_
-- Support: `www.electrum.org/#community <https://www.electrum.org/#community>`_
-- User manual:  `electrum.orain.org/wiki <https://electrum.orain.org/wiki/Main_Page>`_
+- `Website <https://www.electrum.org/>`_
+- `Download <https://electrum.org/#download>`_
+- `Support <https://www.electrum.org/#community>`_
+- `User manual <https://electrum.orain.org/wiki/Main_Page>`_
 
 TREZOR User Manual
 ------------------

@@ -27,7 +27,7 @@ Trezor Feature                                                          Descript
 :icon:`users` Multisig transactions                                     Sign multisignature transaction with TREZOR
 :icon:`user-secret` Hidden Wallets  			    ✔                   User can access hidden wallets each behind arbitrary passphrase
 :icon:`bars` Multiple Accounts           			✔					Capable of creating and working with multiple accounts
-:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displayign PIN matrix on TREZOR's display
+:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displaying PIN matrix on TREZOR's display
 :icon:`eye-slash` Watch-only mode                   ✔                   Remembering account, generating new receiving address with TREZOR disconected
 :icon:`eye`  Show on TREZOR     			        ✔ 					Phishing protection, validation receiving address on TREZOR
 :icon:`sliders` Change PIN              			✔                   User can change TREZOR's PIN
@@ -45,11 +45,11 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- Website: `mytrezor.com <https://mytrezor.com>`_
-- Support: support@bitcointrezor.com
-- Blog: `satoshilabs.com/news <http://satoshilabs.com/news>`_
-- Social: `Facebook <https://www.facebook.com/BitcoinTrezor>`_, `Twitter <https://twitter.com/BitcoinTrezor>`_, `Reddit <http://www.reddit.com/r/TREZOR/>`_
+- `Website <https://mytrezor.com>`_
 - `User manual <../trezor-user/settingup.html>`_
+- `Support (email) <mailto: support@bitcointrezor.com>`_
+- `Blog <http://satoshilabs.com/news>`_
+- `Facebook <https://www.facebook.com/BitcoinTrezor>`_, `Twitter <https://twitter.com/BitcoinTrezor>`_, `Reddit <http://www.reddit.com/r/TREZOR/>`_
 
 TREZOR User Manual
 ------------------

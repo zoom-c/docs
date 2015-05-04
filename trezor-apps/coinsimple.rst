@@ -1,12 +1,12 @@
-Coinsimple
+CoinSimple
 ===================
 
 .. image:: images/coinsimple_logo.png
 
-What is Coinsimple?
+What is CoinSimple?
 -------------------------
 
-`Coinsimple <https://coinsimple.com>`_ is an online Bitcoin invoincing service and wallet connector. 
+`CoinSimple <https://coinsimple.com>`_ is an online Bitcoin invoincing service and wallet connector. 
 Get the benefits of a Bitcoin payment processor and a secure & private watch-only wallet in one. 
 Connect your CoinSimple account to your TREZOR account of your choice and begin invoicing your customers. 
 You can see all open and closed invoices in one glance. See more details `here <https://coinsimple.com/faq/#what-is-coinsimple>`_
@@ -15,7 +15,8 @@ Resources
 ---------
 
 - `Website <https://coinsimple.com>`_
-- `Support <https://coinsimple.com/support>`_. `FAQ <https://coinsimple.com/faq/#what-is-coinsimple>`_
+- `Support <https://coinsimple.com/support>`_
+- `FAQ <https://coinsimple.com/faq/#what-is-coinsimple>`_
 - `Blog <https://coinsimple.com/blog>`_
 
 TREZOR User Manual
@@ -30,8 +31,8 @@ The following dialog will appear.
 .. image:: images/coinsimple02a.png
 
 Open new tab in your browsers and go to `myTREZOR.com <https://mytrezor.com>`_. Connect your TREZOR. 
-In Basic settings copy selected account public key into the clipboard. And paste it into Coinsimple dialog into the first field.
-You can eighter use one of your existing accounts or create new one.
+In Basic settings copy selected account public key into the clipboard. And paste it into CoinSimple dialog into the first field.
+We recommend you to create brand new account for this purpose (although you can also use one of your non-empty accounts if you want).
 
 .. image:: images/coinsimple-mytrezor01.png
 
@@ -63,4 +64,4 @@ After successfull payment, email confirmation is sent to you and your customer.
 
 You can also quickly check current status of your payments in the Invoice section.
 
-.. image:: images/coinsimple09.png
+.. image:: images/coinsimpledisinqa09.png

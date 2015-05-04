@@ -28,7 +28,7 @@ Trezor Feature                                                          Descript
 :icon:`users` Multisig transactions                 ✔                   Sign multisignature transaction with TREZOR
 :icon:`user-secret` Hidden Wallets  			    ✔                   User can access hidden wallets each behind arbitrary passphrase
 :icon:`bars` Multiple Accounts           			✔					Capable of creating and working with multiple accounts
-:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displayign PIN matrix on TREZOR's display
+:icon:`th`   Smart PIN Matrix           			✔					Keylogger protection, displaying PIN matrix on TREZOR's display
 :icon:`eye-slash` Watch-only mode                   ✔                   Importing watch-only account and generating new receiving address
 :icon:`eye`  Show on TREZOR     			        ✔ 					Phishing protection, validation receiving address on TREZOR display
 :icon:`eyedropper` Import single address            ✔                   Importing watch-only addresses one by one
@@ -47,11 +47,11 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- Website: ` <>`_
-- Downloads: ` <>`_
-- Support: link/email
-- Social: ` <>`_
-- User manual: ` <>`_
+- `Website <>`_
+- `Downloads <>`_
+- `Support <>`_
+- `Social <>`_
+- `User manual <>`_
 
 TREZOR User Manual
 ------------------

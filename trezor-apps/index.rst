@@ -15,10 +15,10 @@ Supported TREZOR features
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wallet                                               :icon:`cog`              :icon:`life-ring`      :icon:`exchange`       :icon:`users`          :icon:`user-secret`     :icon:`bars`           :icon:`th`             :icon:`eye-slash`      :icon:`eye`            :icon:`upload`         :icon:`fire`           :icon:`lock`
 `Coinprism <coinprism.html>`_                                                                        ✔                                             ✔                                              ✔
-`Electrum <electrum.html>`_                          ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔
-`Encompass <encompass.html>`_                        ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔
+`Electrum <electrum.html>`_                          ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
+`Encompass <encompass.html>`_                        ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
-`Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
+`Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                       
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
@@ -39,13 +39,16 @@ LEGEND |
 Using TREZOR With Online Services
 ---------------------------------
 
+.. image:: images/photo01.png
+
 Following websites allow you a secure password-less **Sign in with TREZOR** or other great bitcoin related services, 
-e.g. creating invoices from your TREZOR accounts. Click on the name of the service for more details.
+e.g. creating invoices from your TREZOR accounts. Click on the name of a service for more details.
 
 ==================================================== ===================================== ==============================================================================================
 Service                                              Feature(s)                            Description
 `Coinpayments <coinpayments.html>`_                  :icon:`lock`                          Payment processor service supporting various cryptocurrencies.
-`Coinsimple <coinsimple.html>`_                      :icon:`eye-slash`                     Bitcoin invoicing service and wallet connector.
+`CoinSimple <coinsimple.html>`_                      :icon:`eye-slash`                     Bitcoin invoicing service and wallet connector.
+`Osclass <osclass.html>`_                            :icon:`lock`                          Open-source platform for easy creation of classifieds sites. 
 ==================================================== ===================================== ==============================================================================================
 
 .. `Slush pool <slush-pool.html>`_                      :icon:`lock`                          The first mining pool ever and inventor of mining concept.
@@ -54,15 +57,19 @@ LEGEND |
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ | 
 :icon:`eye-slash` Watch-only mode
 
-Recovering TREZOR Seed in Other Wallets 
----------------------------------------
+.. _testref:
 
-Access your bitcoins fast, in case your TREZOR device gets lost or damaged.
+Recovering Funds without TREZOR Device 
+--------------------------------------
+
+.. image:: images/photo03.png
+
+In case your TREZOR device gets lost or damaged, you can access your bitcoins fast using your :download:`paper backup <../trezor-user/images/recovery_card.pdf>` and one of the following wallets:
  
 - `Electrum <https://electrum.org/#download>`_ (Linux, Windows, OSX, Android)
 - `Encompass <https://maza.club/encompass>`_ (Linux, Windows, Android)
-- `MultiBit HD <https://beta.multibit.org>`_ (Linux, Windows, OSX)
-- Mycelium (iOS) - search AppStore on your mobil to download
+- `MultiBit HD <https://beta.multibit.org>`_ (Linux, Windows, OSX) - only the first account from myTREZOR will be accessible
+- Mycelium (iOS) - currently unavaible in AppStore
 - `Mycelium <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ (Android)
 - `Wallet32 <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ (Android)
 
@@ -75,12 +82,15 @@ Are you actively working on adding TREZOR support to your application? Get in to
 - `Bitstamp <https://www.bitstamp.net>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
 - `Coinkite <https://coinkite.com>`_ - wallet support planned
 - `Coinmap <http://coinmap.org>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
-- `Coinsimple <coinsimple.html>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
+- `CoinSimple <coinsimple.html>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
 - `Copay <https://copay.io>`_ - multisig wallet support planned
-- `GreenAddress <https://greenaddress.it/>`_ - multisig wallet support work in progress
+- `GreenAddress <https://greenaddress.it/>`_addresses
+Labelling 	  	Add - multisig wallet support work in progress
 - `Slush pool <http://mining.bitcoin.cz/home/>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
 
 .. `Bitstock <https://www.bitstock.com>`_               TREZOR Connect support planned
+
+.. image:: images/photo02.png
 
 License
 -------
@@ -103,4 +113,5 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    encompass 
    multibit 
    mycelium 
-   mytrezor 
+   mytrezor
+   osclass

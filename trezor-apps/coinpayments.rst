@@ -25,10 +25,6 @@ After account email verification, go ahead and sign in with your credentials.
 
 .. image:: images/coinpayments01.png
 
-
-
-
-
 **To pair the TREZOR device with your account**, select My Account and Account Settings,
 
 .. image:: images/coinpayments03.png
@@ -55,7 +51,7 @@ Finally, enter your account password and complete the procedure.
 
 .. image:: images/coinpayments07.png
 
-From now, you will be able to Sign in with TREZOR and never again worry that your password might be stolen by a keylogger. 
+From now, you will be able to Sign in with TREZOR and **never again worry that your password might be stolen by a keylogger**. 
 Go ahead and try it!
 
 In case you ever need to **unlink your TREZOR**, you can do it easily in TREZOR Wallet Login section of Account Settings. 

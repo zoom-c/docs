@@ -1,8 +1,6 @@
 TREZOR Developer's Guide
 ========================
 
-.. important:: This Manual is Work-in-Progress material and might not make sense to casual viewer.
-
 Contents
 --------
 
