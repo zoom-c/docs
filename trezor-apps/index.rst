@@ -76,21 +76,20 @@ In case your TREZOR device gets lost or damaged, you can access your bitcoins fa
 Ongoing Integrations
 --------------------
 
+.. image:: images/photo04.png
+
 Are you actively working on adding TREZOR support to your application? Get in touch with us via integration@satoshilabs.com. We will gladly include you in the following list.
 
-- `Armory <https://bitcoinarmory.com>`_ - wallet support planned
+- `Armory <https://bitcoinarmory.com>`_ - Wallet support planned
 - `Bitstamp <https://www.bitstamp.net>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
-- `Coinkite <https://coinkite.com>`_ - wallet support planned
+- `Coinkite <https://coinkite.com>`_ - Wallet support planned
 - `Coinmap <http://coinmap.org>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
 - `CoinSimple <coinsimple.html>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
-- `Copay <https://copay.io>`_ - multisig wallet support planned
-- `GreenAddress <https://greenaddress.it/>`_addresses
-Labelling 	  	Add - multisig wallet support work in progress
+- `Copay <https://copay.io>`_ - Multisig wallet support planned
+- `GreenAddress <https://greenaddress.it/>`_ - Multisig wallet support work in progress
 - `Slush pool <http://mining.bitcoin.cz/home/>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
 
 .. `Bitstock <https://www.bitstock.com>`_               TREZOR Connect support planned
-
-.. image:: images/photo02.png
 
 License
 -------
@@ -106,6 +105,7 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    :hidden:
    :maxdepth: 1
    
+   index
    coinpayments 
    coinprism 
    coinsimple 
