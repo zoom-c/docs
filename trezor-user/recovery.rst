@@ -1,6 +1,11 @@
 Recovery
 ========
 
+What happens if I forget my PIN?
+--------------------------------
+
+If you forget your PIN, you can reset it using the recovery process described below (you don't need to get new device, you can use the original one).
+
 Recovery process
 ----------------
 
@@ -32,10 +37,6 @@ Then continue with entering the seed words from your recovery card.
 
 After you have finished, you will be asked to enter your PIN again and then you should see all your accounts as they were before.  You can continue bitcoining away!
 
-What happens if I forget my PIN?
---------------------------------
-
-If you forget your PIN, you can reset it using the recovery process described above (you just don't need to get new device, you can use the original one).
 
 .. |myTrezor| raw:: html
 
