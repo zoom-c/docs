@@ -35,9 +35,9 @@ Which wallets are compatible with TREZOR hardware?
 These wallets can communicate with TREZOR hardware and use its full potential.
 
 - `myTREZOR <http://www.mytrezor.com>`_
-- `Electrum 2.0 <https://electrum.org/beta/>`_ (beta version)
-- `Multibit HD <https://beta.multibit.org/>`_ (beta version)
-- `GreenAddress.it <https://greenaddress.it/en/>`_ (once 1.3.0 firmware with Multisig support is released)
+- `Electrum 2.0 <https://electrum.org/>`_
+- `Multibit HD <https://multibit.org/>`_
+- `GreenAddress.it <https://greenaddress.it/en/>`_
 - Armory support planned
 - BitPay's Copay support planned
 
