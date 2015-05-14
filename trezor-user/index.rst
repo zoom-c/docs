@@ -23,6 +23,7 @@ Contents
    advanced_features
    messages
    applications
+   download
 
 License
 -------
