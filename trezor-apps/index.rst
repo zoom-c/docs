@@ -18,7 +18,7 @@ Wallet                                               :icon:`cog`              :i
 `Electrum <electrum.html>`_                          ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
 `Encompass <encompass.html>`_                        ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
-`Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                       
+`Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
@@ -46,15 +46,21 @@ e.g. creating invoices from your TREZOR accounts. Click on the name of a service
 
 ==================================================== ===================================== ==============================================================================================
 Service                                              Feature(s)                            Description
+`Bitex <bitex.html>`_                                :icon:`lock`                          Real time bitcoin exchange. 
 `Coinpayments <coinpayments.html>`_                  :icon:`lock`                          Payment processor service supporting various cryptocurrencies.
-`CoinSimple <coinsimple.html>`_                      :icon:`eye-slash`                     Bitcoin invoicing service and wallet connector.
+`CoinSimple <coinsimple.html>`_                      :icon:`lock` :icon:`eye-slash`        Bitcoin invoicing service and wallet connector.
 `Osclass <osclass.html>`_                            :icon:`lock`                          Open-source platform for easy creation of classifieds sites. 
+`Strip4Bit <strip4bit.html>`_                        :icon:`lock` :icon:`umbrella`         Adult site allowing users to sign up privately in a secure way. 
 ==================================================== ===================================== ==============================================================================================
 
-.. `Slush pool <slush-pool.html>`_                      :icon:`lock`                          The first mining pool ever and inventor of mining concept.
+.. `Wordpress <wordpress.html>`_                        :icon:`lock`                          Blog hosting and publishing platform.
+.. `Drupal CMS <drupal.html>`_                          :icon:`lock`                          Content management platform.
+.. `Slush pool <slush-pool.html>`_                      :icon:`lock`, :icon:`umbrella`        The first mining pool ever and inventor of mining concept.
+.. `Coinmap <coinmap.html>`_                            :icon:`lock`, :icon:`umbrella`        Map of bitcoin shops and businesses.
 
 LEGEND | 
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ | 
+:icon:`umbrella` Sign up with TREZOR | 
 :icon:`eye-slash` Watch-only mode
 
 .. _testref:
@@ -81,15 +87,15 @@ Ongoing Integrations
 Are you actively working on adding TREZOR support to your application? Get in touch with us via integration@satoshilabs.com. We will gladly include you in the following list.
 
 - `Armory <https://bitcoinarmory.com>`_ - Wallet support planned
-- `Bitstamp <https://www.bitstamp.net>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ planned
-- `Coinkite <https://coinkite.com>`_ - Wallet support planned
-- `Coinmap <http://coinmap.org>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
-- `CoinSimple <coinsimple.html>`_  - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
+- `Bitstamp <https://www.bitstamp.net>`_ - Sign in with TREZOR planned
+- `Bitstock <https://www.bitstock.com>`_ - Sign in with TREZOR planned
+- `Coinkite <https://coinkite.com>`_ - Standard and multisig wallet planned
+- `Coinmap <http://coinmap.org>`_ - Sign in with TREZOR work in progress
 - `Copay <https://copay.io>`_ - Multisig wallet support planned
+- `Drupal CMS <https://www.drupal.org>`_ - Sign in with TREZOR work in progress
 - `GreenAddress <https://greenaddress.it/>`_ - Multisig wallet support work in progress
-- `Slush pool <http://mining.bitcoin.cz/home/>`_ - `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ work in progress
-
-.. `Bitstock <https://www.bitstock.com>`_               TREZOR Connect support planned
+- `Slush pool <http://mining.bitcoin.cz/home/>`_ - Sign in with TREZOR work in progress
+- `Wordpress <https://wordpress.org>`_ - Sign in with TREZOR work in progress
 
 License
 -------
@@ -106,6 +112,7 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    :maxdepth: 1
    
    index
+   bitex
    coinpayments 
    coinprism 
    coinsimple 
@@ -115,3 +122,4 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    mycelium 
    mytrezor
    osclass
+   strip4bit
