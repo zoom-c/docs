@@ -51,8 +51,8 @@ Service                                              Feature(s)                 
 `CoinSimple <coinsimple.html>`_                      :icon:`lock` :icon:`eye-slash`        Bitcoin invoicing service and wallet connector.
 `Osclass <osclass.html>`_                            :icon:`lock`                          Open-source platform for easy creation of classifieds sites. 
 `Strip4Bit <strip4bit.html>`_                        :icon:`lock` :icon:`umbrella`         Adult site allowing users to sign up privately in a secure way. 
-
 ==================================================== ===================================== ==============================================================================================
+
 .. `Wordpress <wordpress.html>`_                        :icon:`lock`                          Blog hosting and publishing platform.
 .. `Drupal CMS <drupal.html>`_                          :icon:`lock`                          Content management platform.
 .. `Slush pool <slush-pool.html>`_                      :icon:`lock`, :icon:`umbrella`        The first mining pool ever and inventor of mining concept.
@@ -92,10 +92,10 @@ Are you actively working on adding TREZOR support to your application? Get in to
 - `Coinkite <https://coinkite.com>`_ - Standard and multisig wallet planned
 - `Coinmap <http://coinmap.org>`_ - Sign in with TREZOR work in progress
 - `Copay <https://copay.io>`_ - Multisig wallet support planned
-- `Drupal CMS plugin <https://www.drupal.org>`_ - Sign in with TREZOR work in progress
+- `Drupal CMS <https://www.drupal.org>`_ - Sign in with TREZOR work in progress
 - `GreenAddress <https://greenaddress.it/>`_ - Multisig wallet support work in progress
 - `Slush pool <http://mining.bitcoin.cz/home/>`_ - Sign in with TREZOR work in progress
-- `Wordpress plugin <https://wordpress.org>`_ - Sign in with TREZOR work in progress
+- `Wordpress <https://wordpress.org>`_ - Sign in with TREZOR work in progress
 
 License
 -------
