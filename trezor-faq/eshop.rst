@@ -5,7 +5,7 @@ Ordering & Shipping
 How to buy a TREZOR?
 --------------------
 
-**BuyTREZOR.com is the #1 place to purchase a TREZOR device**. Another good place for US customers is `amazon.com <http://www.amazon.com/s/ref=sr_nr_seeall_1?rh=k%3Acoincadence%2Ci%3Aelectronics>`_.
+**BuyTREZOR.com is the #1 place to purchase a TREZOR device**.
 
 Orders at **BuyTREZOR.com** are typically processed the same or the next working day after receiving your payment. 
 
