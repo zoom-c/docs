@@ -48,6 +48,7 @@ Resources
 
 - `Website <https://mycelium.com>`_
 - `Download for Android <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_
+- `Download for iOS <https://itunes.apple.com/ca/app/mycelium-bitcoin-wallet/id943912290>`_
 
 TREZOR User Manual
 ------------------
