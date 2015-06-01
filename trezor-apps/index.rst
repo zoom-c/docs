@@ -20,6 +20,7 @@ Wallet                                               :icon:`cog`              :i
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
 `Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
+`TREZOR Chrome extension <extension.html>`_          ✔                        ✔                                                                    ✔                                                                                                                   ✔                      ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
 LEGEND | 
@@ -75,7 +76,7 @@ In case your TREZOR device gets lost or damaged, you can access your bitcoins fa
 - `Electrum <https://electrum.org/#download>`_ (Linux, Windows, OSX, Android)
 - `Encompass <https://maza.club/encompass>`_ (Linux, Windows, Android)
 - `MultiBit HD <https://beta.multibit.org>`_ (Linux, Windows, OSX) - only the first account from myTREZOR will be accessible
-- Mycelium (iOS) - currently unavaible in AppStore
+- `Mycelium <https://itunes.apple.com/ca/app/mycelium-bitcoin-wallet/id943912290>`_ (iOS) - currently support 12 word recovery only
 - `Mycelium <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ (Android)
 - `Wallet32 <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ (Android)
 
@@ -113,6 +114,7 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    
    index
    bitex
+   extension
    coinpayments 
    coinprism 
    coinsimple 
@@ -123,3 +125,4 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    mytrezor
    osclass
    strip4bit
+   

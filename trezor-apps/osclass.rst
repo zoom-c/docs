@@ -1,5 +1,5 @@
-Osclass
-=======
+Osclass plugin
+==============
 
 .. image:: images/osclass_logo.jpg
 
