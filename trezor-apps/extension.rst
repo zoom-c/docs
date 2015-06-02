@@ -35,8 +35,8 @@ Trezor Management Feature                                               Descript
 =================================================== =================== ===========================================================================================================
 
 Beside the management features, TREZOR Chrome extension serves as the communication layer between your device and online wallets and services. 
-This means that with the extension already on your computer, you don't have to install anything else (neighter plugin nor bridge) when you want use TREZOR with online 
-wallets and services, supposing your are using Chrome browser.
+This means that with the extension already on your computer, you don't have to install anything else (neither plugin nor bridge) when you want to use TREZOR online,
+supposing you are using Chrome browser.
 
 Resources
 ---------
@@ -59,7 +59,7 @@ When window with TREZOR Chrome extension icon appears, right click on it and sel
 the extension from desktop or application menu. If you don't create shortcut now, you can access the extension later by 
 opening new browser tab and clicking on Apps button.
 
-.. note:: If you are running Linux, there is one more step to do. Please follow instructions `here <../trezor-user/settingupchromeonlinux.html>` 
+.. note:: If you are running Linux, there is one more step to do. Please follow instructions `here <../trezor-user/settingupchromeonlinux.html>`_ 
 
 The TREZOR Chrome extension runs in a separate window and you will be asked to connect your device first:
 
@@ -74,4 +74,4 @@ On Advanced you can check TREZOR's firmware version, turn on/off passphrase to a
 
 .. image:: images/extension03.png
 
-Find out more about how to manage your device `in myTREZOR documentaion <../trezor-user/index.html>`_
+Find out more about how to manage your device `in myTREZOR documentation <../trezor-user/index.html>`_
