@@ -65,7 +65,7 @@ The TREZOR Chrome extension runs in a separate window and you will be asked to c
 
 .. image:: images/extension01.png
 
-After you connect and go though TREZOR `initialization <../trezor-user/settingup.html>`_, you will be able to manage your device on two separate tabs.
+After you connect and go through TREZOR `initialization <../trezor-user/settingup.html>`_, you will be able to manage your device on two separate tabs.
 On Basic tab, you can set the name of your TREZOR and change your PIN.
 
 .. image:: images/extension02.png

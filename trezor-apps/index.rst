@@ -23,18 +23,18 @@ Wallet                                               :icon:`cog`              :i
 `TREZOR Chrome extension <extension.html>`_          ✔                        ✔                                                                    ✔                                                                                                                   ✔                      ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
-LEGEND | 
-:icon:`cog` Basic Setup | 
-:icon:`life-ring` Safe Recovery | 
-:icon:`exchange` Simple transactions | 
-:icon:`users` Multisig transactions | 
-:icon:`user-secret` Hidden Wallets | 
-:icon:`bars` Multiple Accounts | 
+LEGEND |
+:icon:`cog` Basic Setup |
+:icon:`life-ring` Safe Recovery |
+:icon:`exchange` Simple transactions |
+:icon:`users` Multisig transactions |
+:icon:`user-secret` Hidden Wallets |
+:icon:`bars` Multiple Accounts |
 :icon:`th` Smart PIN Matrix |
-:icon:`eye-slash` Watch-only mode | 
-:icon:`eye` Show on TREZOR | 
-:icon:`upload` Update Firmware | 
-:icon:`fire` Wipe device | 
+:icon:`eye-slash` Watch-only mode |
+:icon:`eye` Show on TREZOR |
+:icon:`upload` Update Firmware |
+:icon:`fire` Wipe device |
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_
 
 Using TREZOR With Online Services
@@ -93,6 +93,7 @@ Are you actively working on adding TREZOR support to your application? Get in to
 - `Coinkite <https://coinkite.com>`_ - Standard and multisig wallet planned
 - `Coinmap <http://coinmap.org>`_ - Sign in with TREZOR work in progress
 - `Copay <https://copay.io>`_ - Multisig wallet support planned
+- `Coyno <https://beta.coyno.com/>`_ - Watch-only wallet service in beta phase
 - `Drupal CMS <https://www.drupal.org>`_ - Sign in with TREZOR work in progress
 - `GreenAddress <https://greenaddress.it/>`_ - Multisig wallet support work in progress
 - `Slush pool <http://mining.bitcoin.cz/home/>`_ - Sign in with TREZOR work in progress
