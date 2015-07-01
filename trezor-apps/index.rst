@@ -15,26 +15,26 @@ Supported TREZOR features
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wallet                                               :icon:`cog`              :icon:`life-ring`      :icon:`exchange`       :icon:`users`          :icon:`user-secret`     :icon:`bars`           :icon:`th`             :icon:`eye-slash`      :icon:`eye`            :icon:`upload`         :icon:`fire`           :icon:`lock`
 `Coinprism <coinprism.html>`_                                                                        ✔                                             ✔                                              ✔
+`Chrome extension <extension.html>`_                 ✔                        ✔                                                                    ✔                                                                                                                   ✔                      ✔
 `Electrum <electrum.html>`_                          ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
 `Encompass <encompass.html>`_                        ✔                                               ✔                                             ✔                       ✔                      ✔                      ✔                      ✔
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
 `Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
-`TREZOR Chrome extension <extension.html>`_          ✔                        ✔                                                                    ✔                                                                                                                   ✔                      ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
-LEGEND | 
-:icon:`cog` Basic Setup | 
-:icon:`life-ring` Safe Recovery | 
-:icon:`exchange` Simple transactions | 
-:icon:`users` Multisig transactions | 
-:icon:`user-secret` Hidden Wallets | 
-:icon:`bars` Multiple Accounts | 
+LEGEND |
+:icon:`cog` Basic Setup |
+:icon:`life-ring` Safe Recovery |
+:icon:`exchange` Simple transactions |
+:icon:`users` Multisig transactions |
+:icon:`user-secret` Hidden Wallets |
+:icon:`bars` Multiple Accounts |
 :icon:`th` Smart PIN Matrix |
-:icon:`eye-slash` Watch-only mode | 
-:icon:`eye` Show on TREZOR | 
-:icon:`upload` Update Firmware | 
-:icon:`fire` Wipe device | 
+:icon:`eye-slash` Watch-only mode |
+:icon:`eye` Show on TREZOR |
+:icon:`upload` Update Firmware |
+:icon:`fire` Wipe device |
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_
 
 Using TREZOR With Online Services
@@ -48,6 +48,7 @@ e.g. creating invoices from your TREZOR accounts. Click on the name of a service
 ==================================================== ===================================== ==============================================================================================
 Service                                              Feature(s)                            Description
 `Bitex <bitex.html>`_                                :icon:`lock`                          Real time bitcoin exchange. 
+`Coinmap <coinmap.html>`_                            :icon:`lock`, :icon:`umbrella`        Map of bitcoin shops and businesses.
 `Coinpayments <coinpayments.html>`_                  :icon:`lock`                          Payment processor service supporting various cryptocurrencies.
 `CoinSimple <coinsimple.html>`_                      :icon:`lock` :icon:`eye-slash`        Bitcoin invoicing service and wallet connector.
 `Osclass <osclass.html>`_                            :icon:`lock`                          Open-source platform for easy creation of classifieds sites. 
@@ -57,14 +58,11 @@ Service                                              Feature(s)                 
 .. `Wordpress <wordpress.html>`_                        :icon:`lock`                          Blog hosting and publishing platform.
 .. `Drupal CMS <drupal.html>`_                          :icon:`lock`                          Content management platform.
 .. `Slush pool <slush-pool.html>`_                      :icon:`lock`, :icon:`umbrella`        The first mining pool ever and inventor of mining concept.
-.. `Coinmap <coinmap.html>`_                            :icon:`lock`, :icon:`umbrella`        Map of bitcoin shops and businesses.
 
 LEGEND | 
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ | 
 :icon:`umbrella` Sign up with TREZOR | 
 :icon:`eye-slash` Watch-only mode
-
-.. _testref:
 
 Recovering Funds without TREZOR Device 
 --------------------------------------
@@ -91,8 +89,8 @@ Are you actively working on adding TREZOR support to your application? Get in to
 - `Bitstamp <https://www.bitstamp.net>`_ - Sign in with TREZOR planned
 - `Bitstock <https://www.bitstock.com>`_ - Sign in with TREZOR planned
 - `Coinkite <https://coinkite.com>`_ - Standard and multisig wallet planned
-- `Coinmap <http://coinmap.org>`_ - Sign in with TREZOR work in progress
 - `Copay <https://copay.io>`_ - Multisig wallet support planned
+- `Coyno <https://beta.coyno.com/>`_ - Watch-only wallet service in beta phase
 - `Drupal CMS <https://www.drupal.org>`_ - Sign in with TREZOR work in progress
 - `GreenAddress <https://greenaddress.it/>`_ - Multisig wallet support work in progress
 - `Slush pool <http://mining.bitcoin.cz/home/>`_ - Sign in with TREZOR work in progress
@@ -115,6 +113,7 @@ The project is hosted `on GitHub <https://github.com/satoshilabs/docs>`_ and pul
    index
    bitex
    extension
+   coinmap
    coinpayments 
    coinprism 
    coinsimple 

@@ -12,7 +12,7 @@ What is Electrum?
 Wallet Property                                                         Description
 ----------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
 :icon:`laptop` Platform                 			✔                   Windows, Linux, OSX, Android
-:icon:`money` Coin(s)                   			✔                   Bitcoin
+:icon:`money` Coin(s)                   			✔                   Bitcoin, Litecoin, DASH
 :icon:`language` Languages                          ✔                   English                   
 :icon:`book` Address Book                           ✔                   Manage contact list of receiving and sending addresses
 :icon:`comment` Labelling                			✔					Add comments and labels to accounts and transactions
