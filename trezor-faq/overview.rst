@@ -12,7 +12,7 @@ TREZOR is a single purpose device which allows you to make secure Bitcoin transa
 How does TREZOR work?
 ---------------------
 
-The Bitcoin protocol works by sending signed notes of payment across the Internet. These messages (which are referred to as Transactions) are signed using a special algorithm. In order to sign a Bitcoin transaction you need to have a special key or password. TREZOR holds that key. Since TREZOR's job is to help you securely sign Transaction messages, you can think of you TREZOR as a modern day stamp.
+The Bitcoin protocol works by sending signed notes of payment across the Internet. These messages (which are referred to as Transactions) are signed using a special algorithm. In order to sign a Bitcoin transaction you need to have a special key or password. TREZOR holds that key. Since TREZOR's job is to help you securely sign Transaction messages, you can think of your TREZOR as a modern day stamp.
 
 .. image:: images/stamp.jpg
 
@@ -28,34 +28,30 @@ Which operating systems and devices support TREZOR?
 
 There is full support in Windows, OS X (version 10.8 and higher) and Linux. Support for using your TREZOR with Android devices which have USB On-The-Go (aka USB Host) support is planned in a future release.
 
-
 Which wallets are compatible with TREZOR hardware?
 --------------------------------------------------
 
-These wallets can communicate with TREZOR hardware and use its full potential.
-
-- `myTREZOR <http://www.mytrezor.com>`_
-- `Electrum 2.0 <https://electrum.org/>`_
-- `Multibit HD <https://multibit.org/>`_
-- `GreenAddress.it <https://greenaddress.it/en/>`_
-- Armory support planned
-- BitPay's Copay support planned
-
+The list of wallets that can be used with TREZOR device is constantly growing. These inlude
+`myTREZOR <../trezor-apps/mytrezor.html>`_,
+`Mycelium <../trezor-apps/mycelium.html>`_, and
+`Multibit HD <../trezor-apps/multibit.html>`_.
+To see the full list, please check out our `TREZOR Apps <../trezor-apps/index.html>`_.
 
 Which wallets are compatible with TREZOR recovery seed?
 -------------------------------------------------------
 
-These wallets cannot communicate with TREZOR hardware yet, but you can use them to access your funds using TREZOR recovery seed.
+In case your TREZOR is not available you can still recover your bitcoins using your :download:`recovery seed <../trezor-user/images/recovery_card.pdf>` 
+and a compatible wallet like 
+`Mycelium <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_, 
+`Wallet32 <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ or
+`Electrum <https://electrum.org/#download>`_.
+Check out our `TREZOR Apps <../trezor-apps/index.html#recovering-funds-without-trezor-device>`_ for the full list of wallets compatible with the recovery seed.
 
-- `Mycelium Bitcoin Wallet for Android <https://play.google.com/store/apps/details?id=com.mycelium.wallet>`_ - supports full recovery
-- `Mycelium Bitcoin Wallet for iOS <https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290>`_ - supports 12 words recovery only (18 and 24 words soon)
-- `Wallet32 for Android <https://play.google.com/store/apps/details?id=com.bonsai.wallet32>`_ - supports full recovery
 
-
-Which watch-only wallets can import TREZOR account public keys (xpub)?
+Which wallets or services can import TREZOR account public keys (xpub)?
 ----------------------------------------------------------------------
 
-These wallets cannot operate with your funds, but you can use them to watch transactions and generate receive addresses for your TREZOR accounts.
+There is a growing number of wallets and online services, which you can use to **watch your TREZOR account balances** or **receive bitcoins directly into your TREZOR** without connecting the device. 
+These apps cannot spend your coins but can check balances online or generate new receiving addresses for you. 
 
-- `myTREZOR Lite (Android) <https://play.google.com/store/apps/details?id=com.satoshilabs.btcreceive>`_
-- `Coyno (web) <https://beta.coyno.com/>`_
+To find out more about these apps, please look for wallets and services with "Watch-only mode" feature icon :icon:`eye-slash` in `TREZOR Apps <../trezor-apps/index.html>`_
