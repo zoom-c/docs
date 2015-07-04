@@ -70,9 +70,9 @@ c) visual challenge
    - this will be shown to the user and we recommend using timestamp in "YYYY-MM-DD HH:MM:SS" format or similar
 
 Signer takes this data and computes the private key according to section HD Structure.
-Then it concatenates hidden and visual challenge together and signs the result
-using the standard Bitcoin message signing. Finally, the signature is returned
-together with the node public key and node address.
+Then it concatenates sha256 hashes of challenge hidden and challenge visual and
+signs the result using the standard Bitcoin message signing.
+Finally, the signature is returned together with the node public key and node address.
 
 It's up to service operator to take this message and react in three possible ways:
 
