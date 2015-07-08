@@ -11,14 +11,20 @@ It is also great tool for journalists who want to study and report on an adoptio
 Recently, brand new redesigned **Coinmap 2.0** has been released which allows for a fast creation of map venues 
 and also user ratings and reporting. 
 
-Find out about bitcoin shops in your neighbourhood and on your travels! Let your customers know you accept bitcoin!
+Find out about bitcoin shops in your neighbourhood and on your travels! Let your customers know you accept bitcoin! 
+Be alerted about new Coinmap additions in your country via this `Twitter feed <https://twitter.com/coinmap_feed>`_.
 
 .. image:: images/coinmap03.png
 
 Resources
 ---------
 
+- `Venue feed on Twitter <https://twitter.com/coinmap_feed>`_
+- `Twitter <https://twitter.com/thecoinmap>`_
+- `Reddit <https://www.reddit.com/r/CoinMap>`_
+- `Facebook <https://www.facebook.com/coinmap>`_
 - `Website <https://coinmap.org>`_
+
 
 TREZOR User Manual
 ------------------

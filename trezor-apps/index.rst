@@ -21,6 +21,7 @@ Wallet                                               :icon:`cog`              :i
 `MultiBit HD <multibit.html>`_                       ✔                                               ✔                                   	                                                      ✔                      ✔                                                                    ✔                      ✔
 `Mycelium <mycelium.html>`_                                                                          ✔                                             ✔                       ✔                      ✔                      ✔
 `myTREZOR <mytrezor.html>`_                          ✔                        ✔                      ✔                                             ✔                       ✔                      ✔                      ✔                      ✔                      ✔                      ✔
+`Sentinel <sentinel.html>`_                                                                                                                                                                                              ✔
 ==================================================== ======================== ====================== ====================== ====================== ======================= ====================== ====================== ====================== ====================== ====================== ====================== ======================
 
 LEGEND |
@@ -50,7 +51,7 @@ Service                                              Feature(s)                 
 `Bitex <bitex.html>`_                                :icon:`lock`                          Real time bitcoin exchange. 
 `Coinmap <coinmap.html>`_                            :icon:`lock`, :icon:`umbrella`        Map of bitcoin shops and businesses.
 `Coinpayments <coinpayments.html>`_                  :icon:`lock`                          Payment processor service supporting various cryptocurrencies.
-`CoinSimple <coinsimple.html>`_                      :icon:`lock` :icon:`eye-slash`        Bitcoin invoicing service and wallet connector.
+`CoinSimple <coinsimple.html>`_                      :icon:`lock`  	                       Bitcoin invoicing service and wallet connector.
 `Osclass <osclass.html>`_                            :icon:`lock`                          Open-source platform for easy creation of classifieds sites. 
 `Strip4Bit <strip4bit.html>`_                        :icon:`lock` :icon:`umbrella`         Adult site allowing users to sign up privately in a secure way. 
 ==================================================== ===================================== ==============================================================================================
@@ -61,8 +62,7 @@ Service                                              Feature(s)                 
 
 LEGEND | 
 :icon:`lock` `Sign in with TREZOR <../trezor-tech/api-connect.html>`_ | 
-:icon:`umbrella` Sign up with TREZOR | 
-:icon:`eye-slash` Watch-only mode
+:icon:`umbrella` Sign up with TREZOR
 
 Recovering Funds without TREZOR Device 
 --------------------------------------

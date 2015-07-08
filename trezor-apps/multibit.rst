@@ -6,7 +6,7 @@ MultiBit HD
 What is MultiBit HD?
 --------------------
 
-`MultiBit HD <https://beta.multibit.org/>`_ is a lightweight desktop wallet for Windows, Linux and OSX written in Java with over 40 intenational languages support. It is currently available in beta version.
+`MultiBit HD <https://multibit.org/>`_ is a lightweight desktop wallet for Windows, Linux and OSX written in Java with over 40 international languages support.
 
 =================================================== =================== ===========================================================================================================
 Wallet Property                                                         Description
@@ -46,10 +46,10 @@ Trezor Feature                                                          Descript
 Resources
 ---------
 
-- `Website <https://beta.multibit.org>`_
-- `Donwload <https://beta.multibit.org/download.html>`_
-- `Support <https://beta.multibit.org/en/help/hd0.1/contents.html>`_
-- `Blog <https://beta.multibit.org/blog.html>`_
+- `Website <https://multibit.org>`_
+- `Download <https://multibit.org/download.html>`_
+- `Support <https://multibit.org/en/help/hd0.1/contents.html>`_
+- `Blog <https://multibit.org/blog.html>`_
 
 TREZOR User Manual
 ------------------
