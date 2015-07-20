@@ -55,6 +55,7 @@ index hexa       coin
 19    0x80000013 Cannacoin
 20    0x80000014 DigiByte
 21    0x80000015 `Open Assets <https://github.com/OpenAssets/open-assets-protocol>`_
+32    0x80000020 Zoom
 ===== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
